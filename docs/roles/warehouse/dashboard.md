@@ -2,52 +2,59 @@
 outline: deep
 ---
 
-# Dashboard Warehouse
+# Dashboard
 
-Dashboard adalah halaman utama untuk melihat kondisi proyek dan aktivitas barang secara keseluruhan. Pengguna dapat memantau perkembangan proyek, proses produksi, pengiriman barang, dan aktivitas stok gudang tanpa membuka setiap modul secara terpisah.
+Dashboard adalah halaman utama aplikasi untuk melihat kondisi proyek dan aktivitas barang secara keseluruhan.
 
-Dashboard terdiri dari empat bagian utama:
+Melalui Dashboard, pengguna dapat melihat progress proyek, proses produksi, pengiriman barang, serta aktivitas stok gudang tanpa harus membuka setiap modul secara terpisah.
+
+Dashboard terdiri dari lima bagian utama:
 
 1. Ringkasan Informasi
 2. Progress Keseluruhan
 3. Proyek Aktif
 4. Gerakan Stok Terakhir
+5. Aktivitas Gudang
 
 ## 1. Ringkasan Informasi
 
-Bagian ini berada di bagian atas Dashboard. Kartu-kartunya memberikan gambaran singkat mengenai kondisi proyek dan barang.
+Bagian ini berada di bagian atas Dashboard dan menampilkan kartu berisi informasi penting mengenai proyek dan barang.
 
 ### Proyek Aktif
 
-Menampilkan jumlah proyek yang masih dikerjakan dan belum mencapai status **Selesai**. Informasi ini membantu pengguna mengetahui jumlah proyek yang masih perlu dipantau.
+Menampilkan jumlah proyek yang masih dalam proses pengerjaan dan belum mencapai status **Selesai**.
 
 ### Purchase Order Belum Diterima
 
-Menampilkan jumlah Purchase Order (PO) yang sudah dibuat, tetapi barang atau material yang dipesan belum diterima. Informasi ini membantu pengguna memantau PO yang masih menunggu kedatangan barang.
+Menampilkan jumlah Purchase Order (PO) yang sudah dibuat, tetapi barang atau material yang dipesan belum diterima.
 
 ### Barang Siap Kirim
 
-Menampilkan jumlah barang yang sudah selesai diproduksi dan siap dikirim ke tujuan proyek. Informasi ini membantu pengguna mengetahui barang yang dapat masuk ke proses pengiriman.
+Menampilkan jumlah barang yang sudah selesai diproduksi dan siap dikirim ke tujuan proyek.
 
 ## 2. Progress Keseluruhan
 
-Bagian ini menunjukkan perkembangan barang dalam proses proyek melalui tiga indikator.
+Bagian ini menampilkan progress barang dalam proses proyek melalui tiga indikator:
 
 ### Barang Diterima
 
-Menampilkan persentase barang yang sudah diterima dibandingkan dengan total barang yang dibutuhkan. Semakin tinggi persentasenya, semakin banyak kebutuhan barang atau material yang tersedia untuk proyek.
+Menampilkan persentase barang yang sudah diterima dibandingkan dengan total barang yang dibutuhkan.
 
 ### Produksi Barang
 
-Menampilkan persentase barang yang sudah selesai diproduksi dibandingkan dengan total barang yang harus diproduksi. Persentase ini menunjukkan perkembangan proses produksi secara keseluruhan.
+Menampilkan persentase barang yang sudah selesai diproduksi dibandingkan dengan total barang yang harus diproduksi.
 
 ### Barang Dikirim
 
-Menampilkan persentase barang yang sudah dikirim dibandingkan dengan total barang yang harus dikirim. Persentase ini menunjukkan perkembangan pengiriman barang ke tujuan proyek.
+Menampilkan persentase barang yang sudah dikirim dibandingkan dengan total barang yang harus dikirim.
 
 ## 3. Proyek Aktif
 
-Bagian ini menampilkan daftar proyek yang masih berjalan. Untuk setiap proyek, pengguna dapat melihat posisi dalam tahapan pengerjaan serta persentase barang yang sudah diproduksi dan dikirim.
+Bagian ini menampilkan daftar proyek yang masih berjalan. Untuk setiap proyek, pengguna dapat melihat:
+
+1. Posisi proyek dalam tahapan pengerjaan.
+2. Progress produksi barang.
+3. Progress pengiriman barang.
 
 ### Tahapan Proyek
 
@@ -57,47 +64,92 @@ Setiap proyek memiliki tujuh tahapan yang menunjukkan posisinya dalam proses pen
 
 | Tahap | Keterangan |
 | --- | --- |
-| **Persiapan** | Proyek mulai dipersiapkan sebelum pengadaan material dan produksi dilakukan. |
-| **Material** | Kebutuhan material sedang dipersiapkan atau dalam proses pengadaan. |
+| **Persiapan** | Tahap awal ketika proyek mulai dipersiapkan sebelum proses pengadaan material dan produksi dilakukan. |
+| **Material** | Kebutuhan material untuk proyek sedang dipersiapkan atau dalam proses pengadaan. |
 | **Bahan Datang** | Material yang dibutuhkan sudah datang dan tersedia untuk diproses. |
-| **Potong** | Material mulai diproses atau dipotong sesuai kebutuhan produksi. |
-| **Sebagian Jadi** | Sebagian barang yang dibutuhkan sudah selesai diproduksi. |
-| **Sebagian Kirim** | Sebagian barang yang selesai diproduksi sudah dikirim ke tujuan proyek. |
+| **Potong** | Material mulai dipotong sesuai kebutuhan produksi. |
+| **Sebagian Jadi** | Sebagian barang yang dibutuhkan untuk proyek sudah selesai diproduksi. |
+| **Sebagian Kirim** | Sebagian barang yang sudah selesai diproduksi telah dikirim ke tujuan proyek. |
 | **Selesai** | Seluruh proses produksi dan pengiriman barang untuk proyek telah selesai. |
 
 ### Progress Produksi dan Pengiriman
 
-Selain tahapan proyek, Dashboard menampilkan perkembangan barang untuk setiap proyek:
+Dashboard menampilkan progress produksi dan pengiriman untuk setiap proyek:
 
 - **Produksi** — Persentase barang yang sudah selesai diproduksi.
 - **Pengiriman** — Persentase barang yang sudah dikirim ke tujuan proyek.
 
-Kedua informasi ini membantu pengguna melihat perkembangan proyek secara lebih detail. Contohnya, proyek dapat berada pada tahap **Sebagian Jadi** dengan progress produksi **70%** dan pengiriman **30%**.
+Sebagai contoh, sebuah proyek dapat berada pada tahap **Sebagian Jadi** dengan progress produksi **70%** dan progress pengiriman **30%**.
 
 ## 4. Gerakan Stok Terakhir
 
-Bagian ini menampilkan 10 aktivitas perpindahan barang terbaru di gudang. Pengguna dapat mengetahui aktivitas barang yang baru terjadi tanpa membuka seluruh riwayat stok.
+Bagian ini menampilkan 10 aktivitas perpindahan barang terbaru yang terjadi di gudang.
 
 | Informasi | Keterangan |
 | --- | --- |
-| **Waktu dan tanggal** | Waktu dan tanggal aktivitas stok dilakukan. |
+| **Waktu dan tanggal** | Waktu dan tanggal ketika aktivitas stok dilakukan. |
 | **Barang** | Nama barang yang mengalami pergerakan stok. |
 | **Deskripsi** | Keterangan mengenai aktivitas yang dilakukan terhadap barang. |
-| **Jumlah** | Jumlah barang yang mengalami pergerakan. |
+| **Jumlah** | Jumlah barang yang masuk atau keluar dari gudang. |
 | **Pencatat** | Nama pengguna yang mencatat aktivitas pergerakan stok. |
 
-Terdapat dua jenis pergerakan:
+Terdapat dua jenis pergerakan stok:
 
-- **Barang Masuk** — Barang yang ditambahkan atau diterima ke dalam stok gudang.
-- **Barang Keluar** — Barang yang dikeluarkan dari stok gudang, misalnya untuk kebutuhan produksi atau pengiriman.
+### Barang Masuk
 
-Informasi pencatat membantu pengguna mengetahui siapa yang mencatat aktivitas stok.
+Menunjukkan barang yang ditambahkan atau diterima ke dalam **Stok Gudang**.
 
-## Ringkasan Dashboard
+### Barang Keluar
 
-Dashboard memberikan gambaran umum mengenai kondisi proyek dan aktivitas barang dalam satu halaman. Pengguna dapat:
+Menunjukkan barang yang dikeluarkan dari **Stok Gudang**, misalnya untuk kebutuhan produksi atau pengiriman.
 
-- Melihat jumlah proyek aktif, PO yang belum diterima, dan barang siap kirim.
-- Memantau perkembangan barang yang sudah diterima, diproduksi, dan dikirim.
-- Mengetahui tahapan setiap proyek serta progress produksi dan pengirimannya.
-- Memantau 10 aktivitas stok terbaru, termasuk detail barang masuk atau keluar dan pengguna yang mencatatnya.
+## 5. Aktivitas Gudang
+
+Pada Dashboard, pengguna dengan role Warehouse dapat melakukan aktivitas yang berkaitan dengan penerimaan dan pengelolaan barang di gudang.
+
+### Penerimaan Barang
+
+Pengguna Warehouse dapat menerima barang atau material yang datang sesuai kebutuhan aplikasi. Barang yang diterima dapat diperuntukkan bagi:
+
+#### Barang untuk Proyek
+
+Barang atau material yang diterima secara khusus untuk memenuhi kebutuhan proyek yang sedang berjalan. Barang tersebut tercatat sebagai **Stok Proyek**.
+
+#### Stok Gudang
+
+Barang yang diterima untuk disimpan sebagai **Stok Gudang** dan dapat digunakan untuk kebutuhan berikutnya.
+
+Penerimaan barang menambah jumlah stok sesuai dengan barang dan jumlah yang diterima.
+
+### Transfer Sisa Stok Proyek
+
+Pengguna Warehouse dapat memindahkan sisa barang dari **Stok Proyek** ke **Stok Gudang**.
+
+Fitur ini digunakan ketika masih ada barang tersisa setelah kebutuhan proyek terpenuhi. Barang tersebut dapat dipindahkan menjadi Stok Gudang agar dapat digunakan untuk kebutuhan lainnya.
+
+## Istilah Stok
+
+Dalam pengelolaan barang, terdapat dua jenis stok:
+
+### Stok Proyek
+
+Barang yang dialokasikan secara khusus untuk memenuhi kebutuhan proyek tertentu.
+
+### Stok Gudang
+
+Barang yang tersedia sebagai stok umum dan dapat digunakan untuk kebutuhan proyek atau kebutuhan lainnya.
+
+## Ringkasan
+
+Dashboard memberikan gambaran umum mengenai kondisi proyek, progress produksi, pengiriman, dan aktivitas stok dalam satu halaman. Pengguna dapat menggunakannya untuk:
+
+- Melihat jumlah proyek yang masih aktif.
+- Melihat jumlah PO yang belum diterima.
+- Mengetahui jumlah barang yang siap dikirim.
+- Memantau persentase barang yang sudah diterima.
+- Memantau progress produksi dan pengiriman barang.
+- Mengetahui posisi setiap proyek dalam tahapan pengerjaan.
+- Melihat progress produksi dan pengiriman setiap proyek.
+- Memantau 10 aktivitas stok terbaru dan mengetahui siapa pencatatnya.
+- Melakukan penerimaan barang untuk kebutuhan proyek atau Stok Gudang.
+- Memindahkan sisa barang dari Stok Proyek ke Stok Gudang.

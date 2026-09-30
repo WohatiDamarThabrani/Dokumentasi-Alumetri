@@ -11,4 +11,4 @@ Warehouse menangani penerimaan barang, pencatatan stok, dan pergerakan persediaa
 
 ## Panduan Terkait
 
-- [Dashboard](/dashboard)
+- [Dashboard Warehouse](/roles/warehouse/dashboard)

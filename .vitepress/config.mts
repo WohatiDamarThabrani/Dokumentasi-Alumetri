@@ -18,6 +18,7 @@ export default defineConfig({
           { text: 'Purchasing', link: '/roles/purchasing' },
           { text: 'Production + Warehouse', link: '/roles/production-warehouse' },
           { text: 'Warehouse', link: '/roles/warehouse' },
+          { text: 'Warehouse Dashboard', link: '/roles/warehouse/dashboard' },
           { text: 'Management', link: '/roles/management' }
         ]
       },
@@ -33,7 +34,13 @@ export default defineConfig({
           { text: 'Estimator', link: '/roles/estimator' },
           { text: 'Purchasing', link: '/roles/purchasing' },
           { text: 'Production + Warehouse', link: '/roles/production-warehouse' },
-          { text: 'Warehouse', link: '/roles/warehouse' },
+          {
+            text: 'Warehouse',
+            link: '/roles/warehouse',
+            items: [
+              { text: 'Dashboard', link: '/roles/warehouse/dashboard' }
+            ]
+          },
           { text: 'Management', link: '/roles/management' }
         ]
       },

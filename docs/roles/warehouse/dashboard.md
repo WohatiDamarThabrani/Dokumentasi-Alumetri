@@ -107,6 +107,8 @@ Menunjukkan barang yang dikeluarkan dari **Stok Gudang**, misalnya untuk kebutuh
 
 Pada Dashboard, pengguna dengan role Warehouse dapat melakukan aktivitas yang berkaitan dengan penerimaan dan pengelolaan barang di gudang.
 
+Pengiriman barang jadi didokumentasikan melalui halaman [Surat Jalan](/roles/warehouse/surat-jalan).
+
 ### Penerimaan Barang
 
 Pengguna Warehouse dapat menerima barang atau material yang datang sesuai kebutuhan aplikasi. Barang yang diterima dapat diperuntukkan bagi:

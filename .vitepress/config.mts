@@ -20,6 +20,9 @@ export default defineConfig({
           { text: 'Warehouse', link: '/roles/warehouse/dashboard' },
           { text: 'Daftar Produksi Warehouse', link: '/roles/warehouse/daftar-produksi' },
           { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
+          { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
+          { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
+          { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
           { text: 'Surat Jalan Warehouse', link: '/roles/warehouse/surat-jalan' },
           { text: 'Management', link: '/roles/management' }
         ]
@@ -43,6 +46,9 @@ export default defineConfig({
               { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
               { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
               { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
               { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
             ]
           },

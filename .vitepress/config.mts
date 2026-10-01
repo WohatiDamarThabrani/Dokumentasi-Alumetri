@@ -19,6 +19,7 @@ export default defineConfig({
           { text: 'Production + Warehouse', link: '/roles/production-warehouse' },
           { text: 'Warehouse', link: '/roles/warehouse/dashboard' },
           { text: 'Daftar Produksi Warehouse', link: '/roles/warehouse/daftar-produksi' },
+          { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
           { text: 'Surat Jalan Warehouse', link: '/roles/warehouse/surat-jalan' },
           { text: 'Management', link: '/roles/management' }
         ]
@@ -41,6 +42,7 @@ export default defineConfig({
             items: [
               { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
               { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
               { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
             ]
           },

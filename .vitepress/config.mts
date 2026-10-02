@@ -16,7 +16,18 @@ export default defineConfig({
           { text: 'Super Admin', link: '/roles/super-admin' },
           { text: 'Estimator', link: '/roles/estimator' },
           { text: 'Purchasing', link: '/roles/purchasing' },
-          { text: 'Production + Warehouse', link: '/roles/production-warehouse' },
+              {
+                text: 'Production + Warehouse',
+                items: [
+                  { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
+                  { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
+                  { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                ]
+              },
           { text: 'Warehouse', link: '/roles/warehouse/dashboard' },
           { text: 'Daftar Produksi Warehouse', link: '/roles/warehouse/daftar-produksi' },
           { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
@@ -38,7 +49,19 @@ export default defineConfig({
           { text: 'Super Admin', link: '/roles/super-admin' },
           { text: 'Estimator', link: '/roles/estimator' },
           { text: 'Purchasing', link: '/roles/purchasing' },
-          { text: 'Production + Warehouse', link: '/roles/production-warehouse' },
+                    {
+                      text: 'Production + Warehouse',
+                      link: '/roles/production-warehouse',
+                      items: [
+                        { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
+                        { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
+                        { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
+                        { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
+                        { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
+                        { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
+                        { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                      ]
+                    },
           {
             text: 'Warehouse',
             link: '/roles/warehouse/dashboard',

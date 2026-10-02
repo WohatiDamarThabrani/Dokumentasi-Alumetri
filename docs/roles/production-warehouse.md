@@ -2,12 +2,12 @@
 
 Role Production + Warehouse mencakup koordinasi proses produksi dan aktivitas gudang.
 
-## Cakupan Dokumentasi
-
-- Pemantauan progres produksi
-- Pencatatan perkembangan barang
-- Koordinasi pergerakan barang antara produksi dan gudang
-
 ## Panduan Terkait
 
-- [Dashboard](/dashboard)
+- [Dashboard](/roles/production-warehouse/dashboard)
+- [Daftar Produksi](/roles/production-warehouse/daftar-produksi)
+- [Inventory Aluminium](/roles/production-warehouse/inventory-aluminium)
+- [Inventory Aksesoris](/roles/production-warehouse/inventory-aksesoris)
+- [Inventory Glass](/roles/production-warehouse/inventory-glass)
+- [Inventory Finished Good](/roles/production-warehouse/inventory-finished-good)
+- [Surat Jalan](/roles/production-warehouse/surat-jalan)

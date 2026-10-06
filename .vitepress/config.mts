@@ -15,7 +15,19 @@ export default defineConfig({
         items: [
           { text: 'Super Admin', link: '/roles/super-admin' },
           { text: 'Estimator', link: '/roles/estimator' },
-          { text: 'Purchasing', link: '/roles/purchasing' },
+          {
+            text: 'Purchasing',
+            items: [
+              { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
+              { text: 'Import Project', link: '/roles/purchasing/import-project' },
+              { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+            ]
+          },
               {
                 text: 'Production + Warehouse',
                 items: [
@@ -48,7 +60,20 @@ export default defineConfig({
         items: [
           { text: 'Super Admin', link: '/roles/super-admin' },
           { text: 'Estimator', link: '/roles/estimator' },
-          { text: 'Purchasing', link: '/roles/purchasing' },
+          {
+            text: 'Purchasing',
+            link: '/roles/purchasing/dashboard',
+            items: [
+              { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
+              { text: 'Import Project', link: '/roles/purchasing/import-project' },
+              { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+            ]
+          },
                     {
                       text: 'Production + Warehouse',
                       link: '/roles/production-warehouse',

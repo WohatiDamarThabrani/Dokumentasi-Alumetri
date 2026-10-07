@@ -14,7 +14,13 @@ export default defineConfig({
         text: 'Role',
         items: [
           { text: 'Super Admin', link: '/roles/super-admin' },
-          { text: 'Estimator', link: '/roles/estimator' },
+          {
+            text: 'Estimator',
+            items: [
+              { text: 'Dashboard', link: '/roles/estimator/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+            ]
+          },
           {
             text: 'Purchasing',
             items: [
@@ -59,7 +65,14 @@ export default defineConfig({
         text: 'Dokumentasi Role',
         items: [
           { text: 'Super Admin', link: '/roles/super-admin' },
-          { text: 'Estimator', link: '/roles/estimator' },
+          {
+            text: 'Estimator',
+            link: '/roles/estimator/dashboard',
+            items: [
+              { text: 'Dashboard', link: '/roles/estimator/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+            ]
+          },
           {
             text: 'Purchasing',
             link: '/roles/purchasing/dashboard',

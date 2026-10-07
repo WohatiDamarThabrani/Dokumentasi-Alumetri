@@ -1,13 +1,8 @@
 # Estimator
 
-Estimator menyusun estimasi kebutuhan dan biaya untuk proyek.
+Estimator menyusun quotation berdasarkan informasi proyek, tipe rumah, pengaturan komersial, kode gambar, dan komponen yang digunakan.
 
-## Cakupan Dokumentasi
+## Halaman Estimator
 
-- Peninjauan informasi proyek
-- Penyusunan estimasi kebutuhan
-- Penyusunan estimasi biaya
-
-## Panduan Terkait
-
-- [Dashboard](/dashboard)
+- [Dashboard](/roles/estimator/dashboard) — ringkasan proyek aktif, penawaran menunggu, progress berjalan, dan daftar proyek aktif.
+- [Daftar Quotation](/roles/estimator/daftar-quotation) — daftar quotation dan panduan membuat draft untuk ditinjau admin.

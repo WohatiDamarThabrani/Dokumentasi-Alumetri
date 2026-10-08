@@ -18,7 +18,10 @@ export default defineConfig({
             text: 'Estimator',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
-              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' },
+              { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+              { text: 'Import Project', link: '/roles/estimator/import-project' },
+              { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
             ]
           },
           {
@@ -70,7 +73,10 @@ export default defineConfig({
             link: '/roles/estimator/dashboard',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
-              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' },
+              { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+              { text: 'Import Project', link: '/roles/estimator/import-project' },
+              { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
             ]
           },
           {

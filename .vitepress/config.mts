@@ -13,7 +13,22 @@ export default defineConfig({
       {
         text: 'Role',
         items: [
-          { text: 'Super Admin', link: '/roles/super-admin' },
+          {
+            text: 'Super Admin',
+            link: '/roles/super-admin',
+            items: [
+              { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' },
+              { text: 'Import Project', link: '/roles/super-admin/import-project' },
+              { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
+              { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+            ]
+          },
           {
             text: 'Estimator',
             items: [
@@ -81,7 +96,22 @@ export default defineConfig({
       {
         text: 'Dokumentasi Role',
         items: [
-          { text: 'Super Admin', link: '/roles/super-admin' },
+          {
+            text: 'Super Admin',
+            link: '/roles/super-admin',
+            items: [
+              { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' },
+              { text: 'Import Project', link: '/roles/super-admin/import-project' },
+              { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
+              { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+            ]
+          },
           {
             text: 'Estimator',
             link: '/roles/estimator/dashboard',

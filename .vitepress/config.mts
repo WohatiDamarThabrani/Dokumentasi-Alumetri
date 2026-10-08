@@ -56,7 +56,21 @@ export default defineConfig({
           { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
           { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
           { text: 'Surat Jalan Warehouse', link: '/roles/warehouse/surat-jalan' },
-          { text: 'Management', link: '/roles/management' }
+          {
+            text: 'Management',
+            link: '/roles/management',
+            items: [
+              { text: 'Dashboard', link: '/roles/management/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
+              { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
+              { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+            ]
+          }
         ]
       },
       { text: 'Dashboard', link: '/dashboard' },
@@ -119,7 +133,21 @@ export default defineConfig({
               { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
             ]
           },
-          { text: 'Management', link: '/roles/management' }
+          {
+            text: 'Management',
+            link: '/roles/management',
+            items: [
+              { text: 'Dashboard', link: '/roles/management/dashboard' },
+              { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
+              { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
+              { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
+              { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
+              { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
+              { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
+              { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
+              { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+            ]
+          }
         ]
       },
       {

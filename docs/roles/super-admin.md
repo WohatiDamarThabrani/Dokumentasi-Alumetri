@@ -9,6 +9,18 @@ Tugas utama Super Admin adalah meninjau dan menyetujui draft yang diajukan oleh 
 ## Halaman Super Admin
 
 - [Dashboard](/roles/super-admin/dashboard) — memantau operasional dan menindaklanjuti draft yang menunggu persetujuan.
+- [Brand](/roles/super-admin/brand) — mengelola data brand, termasuk impor, ekspor, dan pemulihan dari kotak sampah.
+- [Seri Profil](/roles/super-admin/seri-profil) — mengelola seri profil berdasarkan brand.
+- [Finishing](/roles/super-admin/finishing) — mengelola warna dan lapisan permukaan profil.
+- [Supplier](/roles/super-admin/supplier) — mengelola pemasok aluminium, aksesoris, dan kaca untuk Purchase Order.
+- [Customer](/roles/super-admin/customer) — mengelola data developer perumahan yang menjadi lawan penawaran.
+- [Gudang](/roles/super-admin/gudang) — mengelola gudang fisik tempat stok disimpan.
+- [Unit Type & BOM](/roles/super-admin/unit-type-bom) — mengelola tipologi bukaan dan formula set BOM masing-masing unit.
+- [Profil Aluminium](/roles/super-admin/profil-aluminium) — mengelola spesifikasi profil aluminium dan melengkapi panjang batang serta finishing.
+- [Aksesoris](/roles/super-admin/aksesoris) — mengelola kode, deskripsi, satuan, brand, dan kategori sealant aksesoris.
+- [Glass](/roles/super-admin/glass) — mengelola daftar jenis kaca beserta ketebalan, brand, dan seri.
+- [Jasa Pemasangan](/roles/super-admin/jasa-pemasangan) — mengelola katalog jasa pemasangan beserta harga aktifnya.
+- [Price & Cost](/roles/super-admin/price-cost) — membuat pricelist, mengisi harga barang, dan mengaktifkan versi harga.
 - [Daftar Quotation](/roles/super-admin/daftar-quotation) — meninjau dan menyetujui draft quotation yang diajukan role lain.
 - [Import Project](/roles/super-admin/import-project) — mengimpor project melalui shop drawing.
 - [Daftar Purchase Order](/roles/super-admin/daftar-purchase-order) — meninjau dan menyetujui draft PO yang diajukan role lain.

@@ -5,6 +5,7 @@ Role **Management** hanya dapat membaca informasi operasional. Role ini tidak me
 ## Halaman Management
 
 - [Dashboard](/roles/management/dashboard) — ringkasan kondisi proyek, produksi, pengiriman, dan stok.
+- [Report](/roles/management/report) — melihat ringkasan lintas project, performa, produksi, material, pengiriman, dan COGS internal.
 - [Daftar Quotation](/roles/management/daftar-quotation) — melihat informasi dan status quotation.
 - [Daftar Purchase Order](/roles/management/daftar-purchase-order) — melihat informasi purchase order.
 - [Daftar Produksi](/roles/management/daftar-produksi) — memantau progres dan catatan produksi.

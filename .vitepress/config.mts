@@ -18,6 +18,7 @@ export default defineConfig({
             link: '/roles/super-admin',
             items: [
               { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
+              { text: 'Report', link: '/roles/super-admin/report' },
               { text: 'Brand', link: '/roles/super-admin/brand' },
               { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
               { text: 'Finishing', link: '/roles/super-admin/finishing' },
@@ -25,6 +26,7 @@ export default defineConfig({
               { text: 'Customer', link: '/roles/super-admin/customer' },
               { text: 'Gudang', link: '/roles/super-admin/gudang' },
               { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
+              { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
               { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
               { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
               { text: 'Glass', link: '/roles/super-admin/glass' },
@@ -88,6 +90,7 @@ export default defineConfig({
             link: '/roles/management',
             items: [
               { text: 'Dashboard', link: '/roles/management/dashboard' },
+              { text: 'Report', link: '/roles/management/report' },
               { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
               { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
               { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
@@ -113,6 +116,7 @@ export default defineConfig({
             link: '/roles/super-admin',
             items: [
               { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
+              { text: 'Report', link: '/roles/super-admin/report' },
               { text: 'Brand', link: '/roles/super-admin/brand' },
               { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
               { text: 'Finishing', link: '/roles/super-admin/finishing' },
@@ -120,6 +124,7 @@ export default defineConfig({
               { text: 'Customer', link: '/roles/super-admin/customer' },
               { text: 'Gudang', link: '/roles/super-admin/gudang' },
               { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
+              { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
               { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
               { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
               { text: 'Glass', link: '/roles/super-admin/glass' },
@@ -192,6 +197,7 @@ export default defineConfig({
             link: '/roles/management',
             items: [
               { text: 'Dashboard', link: '/roles/management/dashboard' },
+              { text: 'Report', link: '/roles/management/report' },
               { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
               { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
               { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },

@@ -9,6 +9,7 @@ Tugas utama Super Admin adalah meninjau dan menyetujui draft yang diajukan oleh 
 ## Halaman Super Admin
 
 - [Dashboard](/roles/super-admin/dashboard) — memantau operasional dan menindaklanjuti draft yang menunggu persetujuan.
+- [Report](/roles/super-admin/report) — melihat ringkasan lintas project, performa, produksi, material, pengiriman, dan COGS internal.
 - [Brand](/roles/super-admin/brand) — mengelola data brand, termasuk impor, ekspor, dan pemulihan dari kotak sampah.
 - [Seri Profil](/roles/super-admin/seri-profil) — mengelola seri profil berdasarkan brand.
 - [Finishing](/roles/super-admin/finishing) — mengelola warna dan lapisan permukaan profil.
@@ -16,6 +17,7 @@ Tugas utama Super Admin adalah meninjau dan menyetujui draft yang diajukan oleh 
 - [Customer](/roles/super-admin/customer) — mengelola data developer perumahan yang menjadi lawan penawaran.
 - [Gudang](/roles/super-admin/gudang) — mengelola gudang fisik tempat stok disimpan.
 - [Unit Type & BOM](/roles/super-admin/unit-type-bom) — mengelola tipologi bukaan dan formula set BOM masing-masing unit.
+- [Parameter Teknis](/roles/super-admin/parameter-teknis) — mengelola konstanta bernama untuk digunakan pada rumus sesuai lingkup brand dan tipe unit.
 - [Profil Aluminium](/roles/super-admin/profil-aluminium) — mengelola spesifikasi profil aluminium dan melengkapi panjang batang serta finishing.
 - [Aksesoris](/roles/super-admin/aksesoris) — mengelola kode, deskripsi, satuan, brand, dan kategori sealant aksesoris.
 - [Glass](/roles/super-admin/glass) — mengelola daftar jenis kaca beserta ketebalan, brand, dan seri.

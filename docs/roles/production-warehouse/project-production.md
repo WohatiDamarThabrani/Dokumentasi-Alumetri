@@ -8,6 +8,7 @@ Modul **Project & Production** pada role Production + Warehouse mengelompokkan h
 
 ## Halaman Project & Production
 
+- [Daftar Project](/roles/production-warehouse/daftar-project) — melihat proyek dan detail progress produksi, inventory, serta pengiriman.
 - [Daftar Produksi](/roles/production-warehouse/daftar-produksi) — memantau progress dan riwayat produksi.
 - [Inventory Aluminium](/roles/production-warehouse/inventory-aluminium) — melihat stok profil aluminium.
 - [Inventory Aksesoris](/roles/production-warehouse/inventory-aksesoris) — melihat stok aksesoris.

@@ -8,6 +8,7 @@ Modul **Project & Production** pada role Management mengelompokkan halaman untuk
 
 ## Halaman Project & Production
 
+- [Daftar Project](/roles/management/daftar-project) — melihat ringkasan proyek, progress, dan detail operasional.
 - [Daftar Purchase Order](/roles/management/daftar-purchase-order) — melihat informasi purchase order.
 - [Daftar Produksi](/roles/management/daftar-produksi) — memantau progres dan catatan produksi.
 - [Inventory Aluminium](/roles/management/inventory-aluminium) — melihat stok aluminium.

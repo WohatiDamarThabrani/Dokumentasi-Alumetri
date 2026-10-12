@@ -8,6 +8,7 @@ Modul **Project & Production** pada role Purchasing mengelompokkan halaman untuk
 
 ## Halaman Project & Production
 
+- [Daftar Project](/roles/purchasing/daftar-project) — melihat ringkasan proyek dan detail kebutuhan material, PO, produksi, serta pengiriman.
 - [Import Project](/roles/purchasing/import-project) — mengunggah shop drawing ke dalam sistem.
 - [Purchase Order](/roles/purchasing/purchase-order) — mencatat pemesanan material kepada pemasok untuk project.
 - [Daftar Produksi](/roles/purchasing/daftar-produksi) — memantau progress dan riwayat produksi project.

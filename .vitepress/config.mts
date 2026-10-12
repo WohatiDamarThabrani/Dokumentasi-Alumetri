@@ -30,6 +30,7 @@ export default defineConfig({
                 link: '/roles/super-admin/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/super-admin/import-project' },
+                  { text: 'Daftar Project', link: '/roles/super-admin/daftar-project' },
                   { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
@@ -103,7 +104,8 @@ export default defineConfig({
                 link: '/roles/estimator/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/estimator/import-project' },
-                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Daftar Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/tahan-batalkan-project' },
                   { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
                 ]
               },
@@ -151,6 +153,7 @@ export default defineConfig({
                 link: '/roles/purchasing/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/purchasing/import-project' },
+                  { text: 'Daftar Project', link: '/roles/purchasing/daftar-project' },
                   { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
@@ -195,6 +198,7 @@ export default defineConfig({
                     text: 'Project & Production',
                     link: '/roles/production-warehouse/project-production',
                     items: [
+                      { text: 'Daftar Project', link: '/roles/production-warehouse/daftar-project' },
                       { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
                       { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
                       { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
@@ -221,6 +225,7 @@ export default defineConfig({
                 text: 'Project & Production',
                 link: '/roles/warehouse/project-production',
                 items: [
+                  { text: 'Daftar Project', link: '/roles/warehouse/daftar-project' },
                   { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
                   { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
@@ -254,6 +259,7 @@ export default defineConfig({
                 text: 'Project & Production',
                 link: '/roles/management/project-production',
                 items: [
+                  { text: 'Daftar Project', link: '/roles/management/daftar-project' },
                   { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
@@ -325,6 +331,7 @@ export default defineConfig({
                 link: '/roles/super-admin/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/super-admin/import-project' },
+                  { text: 'Daftar Project', link: '/roles/super-admin/daftar-project' },
                   { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
@@ -399,7 +406,8 @@ export default defineConfig({
                 link: '/roles/estimator/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/estimator/import-project' },
-                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Daftar Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/tahan-batalkan-project' },
                   { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
                 ]
               },
@@ -448,6 +456,7 @@ export default defineConfig({
                 link: '/roles/purchasing/project-production',
                 items: [
                   { text: 'Import Project', link: '/roles/purchasing/import-project' },
+                  { text: 'Daftar Project', link: '/roles/purchasing/daftar-project' },
                   { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
@@ -493,6 +502,7 @@ export default defineConfig({
                           text: 'Project & Production',
                           link: '/roles/production-warehouse/project-production',
                           items: [
+                            { text: 'Daftar Project', link: '/roles/production-warehouse/daftar-project' },
                             { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
                             { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
                             { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
@@ -519,6 +529,7 @@ export default defineConfig({
                 text: 'Project & Production',
                 link: '/roles/warehouse/project-production',
                 items: [
+                  { text: 'Daftar Project', link: '/roles/warehouse/daftar-project' },
                   { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
                   { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
@@ -552,6 +563,7 @@ export default defineConfig({
                 text: 'Project & Production',
                 link: '/roles/management/project-production',
                 items: [
+                  { text: 'Daftar Project', link: '/roles/management/daftar-project' },
                   { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
                   { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
                   { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },

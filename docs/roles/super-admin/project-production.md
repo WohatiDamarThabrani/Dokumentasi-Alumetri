@@ -9,6 +9,7 @@ Modul **Project & Production** pada Super Admin mengelompokkan halaman untuk imp
 ## Halaman Project & Production
 
 - [Import Project](/roles/super-admin/import-project) — mengimpor project melalui shop drawing.
+- [Daftar Project](/roles/super-admin/daftar-project) — melihat daftar proyek serta detail perencanaan, material, produksi, inventory, pengiriman, dokumen, dan riwayat.
 - [Daftar Purchase Order](/roles/super-admin/daftar-purchase-order) — meninjau dan menyetujui draft PO yang diajukan role lain.
 - [Daftar Produksi](/roles/super-admin/daftar-produksi) — memantau progress dan riwayat produksi.
 - [Inventory Aluminium](/roles/super-admin/inventory-aluminium) — memantau stok aluminium.

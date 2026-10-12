@@ -4,7 +4,7 @@ outline: deep
 
 # Import Project
 
-Estimator dapat mengimpor project dengan mengunggah shop drawing ke dalam sistem, seperti Purchasing.
+Estimator dapat mengimpor project dengan mengunggah shop drawing ke dalam sistem.
 
 ## Mengunggah Shop Drawing
 

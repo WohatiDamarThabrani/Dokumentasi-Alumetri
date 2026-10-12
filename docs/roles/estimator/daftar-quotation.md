@@ -21,7 +21,7 @@ Halaman Daftar Quotation menampilkan quotation estimator dalam bentuk tabel. Inf
 
 ## Membuat Draft Quotation
 
-Isi informasi quotation secara berurutan. Draft yang disimpan akan ditinjau terlebih dahulu oleh admin.
+Isi informasi quotation secara berurutan. Draft yang disimpan akan ditinjau terlebih dahulu oleh Super Admin.
 
 ### 1. Mengisi Informasi Proyek
 
@@ -85,7 +85,7 @@ Setelah informasi komponen lengkap, klik **Add Quotation** untuk menambahkan kom
 
 ### 6. Menyimpan Draft untuk Ditinjau
 
-Setelah seluruh data dan komponen quotation selesai ditambahkan, klik tombol **Simpan** di bagian bawah halaman. Quotation disimpan sebagai draft dan akan ditinjau terlebih dahulu oleh admin.
+Setelah seluruh data dan komponen quotation selesai ditambahkan, klik tombol **Simpan** di bagian bawah halaman. Quotation disimpan sebagai draft dan akan ditinjau terlebih dahulu oleh Super Admin.
 
 ## Navigasi
 

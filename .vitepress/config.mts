@@ -91,58 +91,211 @@ export default defineConfig({
             text: 'Estimator',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
-              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' },
-              { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
-              { text: 'Import Project', link: '/roles/estimator/import-project' },
-              { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
+              {
+                text: 'Sales',
+                link: '/roles/estimator/sales',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/estimator/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/estimator/import-project' },
+                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/estimator/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/estimator/brand' },
+                  { text: 'Seri Profil', link: '/roles/estimator/seri-profil' },
+                  { text: 'Finishing', link: '/roles/estimator/finishing' },
+                  { text: 'Supplier', link: '/roles/estimator/supplier' },
+                  { text: 'Customer', link: '/roles/estimator/customer' },
+                  { text: 'Gudang', link: '/roles/estimator/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/estimator/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/estimator/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/estimator/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/estimator/aksesoris' },
+                  { text: 'Glass', link: '/roles/estimator/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/estimator/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/estimator/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/estimator/report',
+                items: [
+                  { text: 'Report', link: '/roles/estimator/report' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/estimator/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/estimator/berkas-cetak' }
+                ]
+              }
             ]
           },
           {
             text: 'Purchasing',
             items: [
               { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
-              { text: 'Import Project', link: '/roles/purchasing/import-project' },
-              { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+              {
+                text: 'Project & Production',
+                link: '/roles/purchasing/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/purchasing/import-project' },
+                  { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/purchasing/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/purchasing/brand' },
+                  { text: 'Seri Profil', link: '/roles/purchasing/seri-profil' },
+                  { text: 'Finishing', link: '/roles/purchasing/finishing' },
+                  { text: 'Supplier', link: '/roles/purchasing/supplier' },
+                  { text: 'Customer', link: '/roles/purchasing/customer' },
+                  { text: 'Gudang', link: '/roles/purchasing/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/purchasing/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/purchasing/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/purchasing/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/purchasing/aksesoris' },
+                  { text: 'Glass', link: '/roles/purchasing/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/purchasing/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/purchasing/price-cost' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/purchasing/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/purchasing/berkas-cetak' }
+                ]
+              }
             ]
           },
               {
                 text: 'Production + Warehouse',
                 items: [
                   { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
-                  { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
-                  { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
-                  { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
-                  { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
-                  { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
-                  { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                  {
+                    text: 'Project & Production',
+                    link: '/roles/production-warehouse/project-production',
+                    items: [
+                      { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
+                      { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
+                      { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
+                      { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
+                      { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
+                      { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                    ]
+                  },
+                  {
+                    text: 'Cetak',
+                    link: '/roles/production-warehouse/berkas-cetak',
+                    items: [
+                      { text: 'Berkas Cetak', link: '/roles/production-warehouse/berkas-cetak' }
+                    ]
+                  }
                 ]
               },
-          { text: 'Warehouse', link: '/roles/warehouse/dashboard' },
-          { text: 'Daftar Produksi Warehouse', link: '/roles/warehouse/daftar-produksi' },
-          { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
-          { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
-          { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
-          { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
-          { text: 'Surat Jalan Warehouse', link: '/roles/warehouse/surat-jalan' },
+          {
+            text: 'Warehouse',
+            link: '/roles/warehouse/dashboard',
+            items: [
+              { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
+              {
+                text: 'Project & Production',
+                link: '/roles/warehouse/project-production',
+                items: [
+                  { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
+                  { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/warehouse/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/warehouse/berkas-cetak' }
+                ]
+              }
+            ]
+          },
           {
             text: 'Management',
             link: '/roles/management',
             items: [
               { text: 'Dashboard', link: '/roles/management/dashboard' },
-              { text: 'Report', link: '/roles/management/report' },
-              { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
-              { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
-              { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+              {
+                text: 'Sales',
+                link: '/roles/management/daftar-quotation',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/management/project-production',
+                items: [
+                  { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
+                  { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/management/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/management/brand' },
+                  { text: 'Seri Profil', link: '/roles/management/seri-profil' },
+                  { text: 'Finishing', link: '/roles/management/finishing' },
+                  { text: 'Supplier', link: '/roles/management/supplier' },
+                  { text: 'Customer', link: '/roles/management/customer' },
+                  { text: 'Gudang', link: '/roles/management/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/management/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/management/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/management/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/management/aksesoris' },
+                  { text: 'Glass', link: '/roles/management/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/management/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/management/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/management/report',
+                items: [
+                  { text: 'Report', link: '/roles/management/report' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/management/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/management/berkas-cetak' }
+                ]
+              }
             ]
           }
         ]
@@ -234,10 +387,55 @@ export default defineConfig({
             link: '/roles/estimator/dashboard',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
-              { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' },
-              { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
-              { text: 'Import Project', link: '/roles/estimator/import-project' },
-              { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
+              {
+                text: 'Sales',
+                link: '/roles/estimator/sales',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/estimator/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/estimator/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/estimator/import-project' },
+                  { text: 'Menahan dan Membatalkan Project', link: '/roles/estimator/daftar-project' },
+                  { text: 'Daftar Produksi', link: '/roles/estimator/daftar-produksi' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/estimator/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/estimator/brand' },
+                  { text: 'Seri Profil', link: '/roles/estimator/seri-profil' },
+                  { text: 'Finishing', link: '/roles/estimator/finishing' },
+                  { text: 'Supplier', link: '/roles/estimator/supplier' },
+                  { text: 'Customer', link: '/roles/estimator/customer' },
+                  { text: 'Gudang', link: '/roles/estimator/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/estimator/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/estimator/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/estimator/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/estimator/aksesoris' },
+                  { text: 'Glass', link: '/roles/estimator/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/estimator/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/estimator/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/estimator/report',
+                items: [
+                  { text: 'Report', link: '/roles/estimator/report' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/estimator/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/estimator/berkas-cetak' }
+                ]
+              }
             ]
           },
           {
@@ -245,13 +443,45 @@ export default defineConfig({
             link: '/roles/purchasing/dashboard',
             items: [
               { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
-              { text: 'Import Project', link: '/roles/purchasing/import-project' },
-              { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+              {
+                text: 'Project & Production',
+                link: '/roles/purchasing/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/purchasing/import-project' },
+                  { text: 'Purchase Order', link: '/roles/purchasing/purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/purchasing/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/purchasing/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/purchasing/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/purchasing/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/purchasing/inventory-finished-good' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/purchasing/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/purchasing/brand' },
+                  { text: 'Seri Profil', link: '/roles/purchasing/seri-profil' },
+                  { text: 'Finishing', link: '/roles/purchasing/finishing' },
+                  { text: 'Supplier', link: '/roles/purchasing/supplier' },
+                  { text: 'Customer', link: '/roles/purchasing/customer' },
+                  { text: 'Gudang', link: '/roles/purchasing/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/purchasing/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/purchasing/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/purchasing/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/purchasing/aksesoris' },
+                  { text: 'Glass', link: '/roles/purchasing/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/purchasing/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/purchasing/price-cost' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/purchasing/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/purchasing/berkas-cetak' }
+                ]
+              }
             ]
           },
                     {
@@ -259,12 +489,25 @@ export default defineConfig({
                       link: '/roles/production-warehouse',
                       items: [
                         { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
-                        { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
-                        { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
-                        { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
-                        { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
-                        { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
-                        { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                        {
+                          text: 'Project & Production',
+                          link: '/roles/production-warehouse/project-production',
+                          items: [
+                            { text: 'Daftar Produksi', link: '/roles/production-warehouse/daftar-produksi' },
+                            { text: 'Inventory Aluminium', link: '/roles/production-warehouse/inventory-aluminium' },
+                            { text: 'Inventory Aksesoris', link: '/roles/production-warehouse/inventory-aksesoris' },
+                            { text: 'Inventory Glass', link: '/roles/production-warehouse/inventory-glass' },
+                            { text: 'Inventory Finished Good', link: '/roles/production-warehouse/inventory-finished-good' },
+                            { text: 'Surat Jalan', link: '/roles/production-warehouse/surat-jalan' }
+                          ]
+                        },
+                        {
+                          text: 'Cetak',
+                          link: '/roles/production-warehouse/berkas-cetak',
+                          items: [
+                            { text: 'Berkas Cetak', link: '/roles/production-warehouse/berkas-cetak' }
+                          ]
+                        }
                       ]
                     },
           {
@@ -272,12 +515,25 @@ export default defineConfig({
             link: '/roles/warehouse/dashboard',
             items: [
               { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
-              { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
-              { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
+              {
+                text: 'Project & Production',
+                link: '/roles/warehouse/project-production',
+                items: [
+                  { text: 'Daftar Produksi', link: '/roles/warehouse/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/warehouse/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/warehouse/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/warehouse/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/warehouse/inventory-finished-good' },
+                  { text: 'Surat Jalan', link: '/roles/warehouse/surat-jalan' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/warehouse/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/warehouse/berkas-cetak' }
+                ]
+              }
             ]
           },
           {
@@ -285,15 +541,59 @@ export default defineConfig({
             link: '/roles/management',
             items: [
               { text: 'Dashboard', link: '/roles/management/dashboard' },
-              { text: 'Report', link: '/roles/management/report' },
-              { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' },
-              { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
-              { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+              {
+                text: 'Sales',
+                link: '/roles/management/daftar-quotation',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/management/project-production',
+                items: [
+                  { text: 'Daftar Purchase Order', link: '/roles/management/daftar-purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/management/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/management/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/management/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/management/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/management/inventory-finished-good' },
+                  { text: 'Daftar Surat Jalan', link: '/roles/management/daftar-surat-jalan' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/management/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/management/brand' },
+                  { text: 'Seri Profil', link: '/roles/management/seri-profil' },
+                  { text: 'Finishing', link: '/roles/management/finishing' },
+                  { text: 'Supplier', link: '/roles/management/supplier' },
+                  { text: 'Customer', link: '/roles/management/customer' },
+                  { text: 'Gudang', link: '/roles/management/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/management/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/management/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/management/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/management/aksesoris' },
+                  { text: 'Glass', link: '/roles/management/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/management/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/management/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/management/report',
+                items: [
+                  { text: 'Report', link: '/roles/management/report' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/management/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/management/berkas-cetak' }
+                ]
+              }
             ]
           }
         ]

@@ -18,29 +18,73 @@ export default defineConfig({
             link: '/roles/super-admin',
             items: [
               { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
-              { text: 'Report', link: '/roles/super-admin/report' },
-              { text: 'Brand', link: '/roles/super-admin/brand' },
-              { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
-              { text: 'Finishing', link: '/roles/super-admin/finishing' },
-              { text: 'Supplier', link: '/roles/super-admin/supplier' },
-              { text: 'Customer', link: '/roles/super-admin/customer' },
-              { text: 'Gudang', link: '/roles/super-admin/gudang' },
-              { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
-              { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
-              { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
-              { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
-              { text: 'Glass', link: '/roles/super-admin/glass' },
-              { text: 'Jasa Pemasangan', link: '/roles/super-admin/jasa-pemasangan' },
-              { text: 'Price & Cost', link: '/roles/super-admin/price-cost' },
-              { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' },
-              { text: 'Import Project', link: '/roles/super-admin/import-project' },
-              { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
-              { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+              {
+                text: 'Sales',
+                link: '/roles/super-admin/sales',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/super-admin/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/super-admin/import-project' },
+                  { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
+                  { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/super-admin/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/super-admin/brand' },
+                  { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
+                  { text: 'Finishing', link: '/roles/super-admin/finishing' },
+                  { text: 'Supplier', link: '/roles/super-admin/supplier' },
+                  { text: 'Customer', link: '/roles/super-admin/customer' },
+                  { text: 'Gudang', link: '/roles/super-admin/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
+                  { text: 'Glass', link: '/roles/super-admin/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/super-admin/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/super-admin/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/super-admin/reporting',
+                items: [
+                  { text: 'Report', link: '/roles/super-admin/report' },
+                  { text: 'Uji Rekonsiliasi', link: '/roles/super-admin/uji-rekonsiliasi' }
+                ]
+              },
+              {
+                text: 'Setting',
+                link: '/roles/super-admin/setting',
+                items: [
+                  { text: 'Company Information', link: '/roles/super-admin/company-information' },
+                  { text: 'User Management', link: '/roles/super-admin/user-management' },
+                  { text: 'Roles & Permissions', link: '/roles/super-admin/roles-permissions' },
+                  { text: 'Document Settings', link: '/roles/super-admin/document-settings' },
+                  { text: 'Production & Commercial Defaults', link: '/roles/super-admin/production-commercial-defaults' },
+                  { text: 'Data Demo', link: '/roles/super-admin/data-demo' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/super-admin/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/super-admin/berkas-cetak' }
+                ]
+              }
             ]
           },
           {
@@ -116,29 +160,73 @@ export default defineConfig({
             link: '/roles/super-admin',
             items: [
               { text: 'Dashboard', link: '/roles/super-admin/dashboard' },
-              { text: 'Report', link: '/roles/super-admin/report' },
-              { text: 'Brand', link: '/roles/super-admin/brand' },
-              { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
-              { text: 'Finishing', link: '/roles/super-admin/finishing' },
-              { text: 'Supplier', link: '/roles/super-admin/supplier' },
-              { text: 'Customer', link: '/roles/super-admin/customer' },
-              { text: 'Gudang', link: '/roles/super-admin/gudang' },
-              { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
-              { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
-              { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
-              { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
-              { text: 'Glass', link: '/roles/super-admin/glass' },
-              { text: 'Jasa Pemasangan', link: '/roles/super-admin/jasa-pemasangan' },
-              { text: 'Price & Cost', link: '/roles/super-admin/price-cost' },
-              { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' },
-              { text: 'Import Project', link: '/roles/super-admin/import-project' },
-              { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
-              { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
-              { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
-              { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
-              { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
-              { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
-              { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+              {
+                text: 'Sales',
+                link: '/roles/super-admin/sales',
+                items: [
+                  { text: 'Daftar Quotation', link: '/roles/super-admin/daftar-quotation' }
+                ]
+              },
+              {
+                text: 'Project & Production',
+                link: '/roles/super-admin/project-production',
+                items: [
+                  { text: 'Import Project', link: '/roles/super-admin/import-project' },
+                  { text: 'Daftar Purchase Order', link: '/roles/super-admin/daftar-purchase-order' },
+                  { text: 'Daftar Produksi', link: '/roles/super-admin/daftar-produksi' },
+                  { text: 'Inventory Aluminium', link: '/roles/super-admin/inventory-aluminium' },
+                  { text: 'Inventory Aksesoris', link: '/roles/super-admin/inventory-aksesoris' },
+                  { text: 'Inventory Glass', link: '/roles/super-admin/inventory-glass' },
+                  { text: 'Inventory Finished Good', link: '/roles/super-admin/inventory-finished-good' },
+                  { text: 'Daftar Surat Jalan', link: '/roles/super-admin/daftar-surat-jalan' }
+                ]
+              },
+              {
+                text: 'Master Data',
+                link: '/roles/super-admin/master-data',
+                items: [
+                  { text: 'Brand', link: '/roles/super-admin/brand' },
+                  { text: 'Seri Profil', link: '/roles/super-admin/seri-profil' },
+                  { text: 'Finishing', link: '/roles/super-admin/finishing' },
+                  { text: 'Supplier', link: '/roles/super-admin/supplier' },
+                  { text: 'Customer', link: '/roles/super-admin/customer' },
+                  { text: 'Gudang', link: '/roles/super-admin/gudang' },
+                  { text: 'Unit Type & BOM', link: '/roles/super-admin/unit-type-bom' },
+                  { text: 'Parameter Teknis', link: '/roles/super-admin/parameter-teknis' },
+                  { text: 'Profil Aluminium', link: '/roles/super-admin/profil-aluminium' },
+                  { text: 'Aksesoris', link: '/roles/super-admin/aksesoris' },
+                  { text: 'Glass', link: '/roles/super-admin/glass' },
+                  { text: 'Jasa Pemasangan', link: '/roles/super-admin/jasa-pemasangan' },
+                  { text: 'Price & Cost', link: '/roles/super-admin/price-cost' }
+                ]
+              },
+              {
+                text: 'Report',
+                link: '/roles/super-admin/reporting',
+                items: [
+                  { text: 'Report', link: '/roles/super-admin/report' },
+                  { text: 'Uji Rekonsiliasi', link: '/roles/super-admin/uji-rekonsiliasi' }
+                ]
+              },
+              {
+                text: 'Setting',
+                link: '/roles/super-admin/setting',
+                items: [
+                  { text: 'Company Information', link: '/roles/super-admin/company-information' },
+                  { text: 'User Management', link: '/roles/super-admin/user-management' },
+                  { text: 'Roles & Permissions', link: '/roles/super-admin/roles-permissions' },
+                  { text: 'Document Settings', link: '/roles/super-admin/document-settings' },
+                  { text: 'Production & Commercial Defaults', link: '/roles/super-admin/production-commercial-defaults' },
+                  { text: 'Data Demo', link: '/roles/super-admin/data-demo' }
+                ]
+              },
+              {
+                text: 'Cetak',
+                link: '/roles/super-admin/berkas-cetak',
+                items: [
+                  { text: 'Berkas Cetak', link: '/roles/super-admin/berkas-cetak' }
+                ]
+              }
             ]
           },
           {

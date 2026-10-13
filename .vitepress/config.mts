@@ -7,6 +7,7 @@ export default defineConfig({
   title: "Alumetri Serpihan",
   description: "dokumentasi alumetri",
   themeConfig: {
+    logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -90,6 +91,7 @@ export default defineConfig({
           },
           {
             text: 'Estimator',
+            link: '/roles/estimator',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
               {
@@ -130,7 +132,7 @@ export default defineConfig({
               },
               {
                 text: 'Report',
-                link: '/roles/estimator/report',
+                link: '/roles/estimator/reporting',
                 items: [
                   { text: 'Report', link: '/roles/estimator/report' }
                 ]
@@ -146,6 +148,7 @@ export default defineConfig({
           },
           {
             text: 'Purchasing',
+            link: '/roles/purchasing',
             items: [
               { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
               {
@@ -192,6 +195,7 @@ export default defineConfig({
           },
               {
                 text: 'Production + Warehouse',
+                link: '/roles/production-warehouse',
                 items: [
                   { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
                   {
@@ -218,7 +222,7 @@ export default defineConfig({
               },
           {
             text: 'Warehouse',
-            link: '/roles/warehouse/dashboard',
+            link: '/roles/warehouse',
             items: [
               { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
               {
@@ -250,7 +254,7 @@ export default defineConfig({
               { text: 'Dashboard', link: '/roles/management/dashboard' },
               {
                 text: 'Sales',
-                link: '/roles/management/daftar-quotation',
+                link: '/roles/management/sales',
                 items: [
                   { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' }
                 ]
@@ -290,7 +294,7 @@ export default defineConfig({
               },
               {
                 text: 'Report',
-                link: '/roles/management/report',
+                link: '/roles/management/reporting',
                 items: [
                   { text: 'Report', link: '/roles/management/report' }
                 ]
@@ -306,8 +310,6 @@ export default defineConfig({
           }
         ]
       },
-      { text: 'Dashboard', link: '/dashboard' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -391,7 +393,7 @@ export default defineConfig({
           },
           {
             text: 'Estimator',
-            link: '/roles/estimator/dashboard',
+            link: '/roles/estimator',
             items: [
               { text: 'Dashboard', link: '/roles/estimator/dashboard' },
               {
@@ -432,7 +434,7 @@ export default defineConfig({
               },
               {
                 text: 'Report',
-                link: '/roles/estimator/report',
+                link: '/roles/estimator/reporting',
                 items: [
                   { text: 'Report', link: '/roles/estimator/report' }
                 ]
@@ -448,7 +450,7 @@ export default defineConfig({
           },
           {
             text: 'Purchasing',
-            link: '/roles/purchasing/dashboard',
+            link: '/roles/purchasing',
             items: [
               { text: 'Dashboard', link: '/roles/purchasing/dashboard' },
               {
@@ -522,7 +524,7 @@ export default defineConfig({
                     },
           {
             text: 'Warehouse',
-            link: '/roles/warehouse/dashboard',
+            link: '/roles/warehouse',
             items: [
               { text: 'Dashboard', link: '/roles/warehouse/dashboard' },
               {
@@ -554,7 +556,7 @@ export default defineConfig({
               { text: 'Dashboard', link: '/roles/management/dashboard' },
               {
                 text: 'Sales',
-                link: '/roles/management/daftar-quotation',
+                link: '/roles/management/sales',
                 items: [
                   { text: 'Daftar Quotation', link: '/roles/management/daftar-quotation' }
                 ]
@@ -594,7 +596,7 @@ export default defineConfig({
               },
               {
                 text: 'Report',
-                link: '/roles/management/report',
+                link: '/roles/management/reporting',
                 items: [
                   { text: 'Report', link: '/roles/management/report' }
                 ]
@@ -608,13 +610,6 @@ export default defineConfig({
               }
             ]
           }
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],

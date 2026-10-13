@@ -6,7 +6,7 @@ outline: deep
 
 Tugas utama Super Admin adalah meninjau dan menyetujui draft yang diajukan oleh role lain, termasuk draft quotation, Purchase Order (PO), surat jalan, dan dokumen operasional lainnya. Super Admin juga memiliki akses ke seluruh modul operasional.
 
-## Halaman Super Admin
+## Modul yang Dimiliki Super Admin
 
 - [Dashboard](/roles/super-admin/dashboard) — memantau operasional dan menindaklanjuti draft yang menunggu persetujuan.
 - [Sales](/roles/super-admin/sales) — meninjau dan menyetujui draft quotation.

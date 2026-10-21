@@ -38,7 +38,7 @@ Gunakan fitur transfer untuk memindahkan sisa material dari **Stok Proyek** ke *
   <img src="/images/warehouse/transfer-stok/transfer1.png" alt="Langkah 1: Pilih menu Dashboard" style="display: block; max-width: 100%; height: auto;">
 2. Klik tombol <img src="/images/warehouse/transfer-stok/transfer2.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
    <img src="/images/warehouse/transfer-stok/transfer3.png" alt="" style="display: block; max-width: 100%; height: auto;">
-3. Pilih proyek asal, kategori, gudang asal, gudang tujuan dari dropdown list. Masukkan tanggal pindah, jika diperlukan isi catatan
+3. Pilih proyek asal, kategori, gudang asal, dan gudang tujuan dari dropdown list. Masukkan tanggal pindah, jika diperlukan isi catatan
 4. Masukkan jumlah material yang akan dipindahkan
 5. Klik tombol <img src="/images/warehouse/transfer-stok/transfer4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
    <img src="/images/warehouse/transfer-stok/transfer5.png" alt="" style="display: block; max-width: 100%; height: auto;">

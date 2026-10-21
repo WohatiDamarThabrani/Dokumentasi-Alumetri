@@ -26,7 +26,7 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
    ![Langkah 1: Pilih menu Daftar Surat Jalan](/images/warehouse/surat-jalan/Surat-Jalan1.png)
 
-2. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+2. Klik tombol ![Buat Surat Jalan](/images/warehouse/surat-jalan/Surat-Jalan2.png =74x16), lalu akan tampil halaman berikut
 
     ![](/images/warehouse/surat-jalan/Surat-Jalan3.png)
 
@@ -41,4 +41,4 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
     ![](/images/warehouse/surat-jalan/Surat-Jalan5.png)
 
-7. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin.
+7. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin

@@ -24,26 +24,21 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
 1. Buka menu Daftar Surat Jalan.
 
-   ![Langkah 1: Pilih menu Daftar Surat Jalan](/images/warehouse/surat-jalan/surat-jalan1.png)
+   ![Langkah 1: Pilih menu Daftar Surat Jalan](/images/warehouse/surat-jalan/Surat-Jalan1.png)
 
-2. Klik tombol Buat Surat Jalan.
+2. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
 
-   ![Langkah 2: Klik tombol Buat Surat Jalan](/images/warehouse/surat-jalan/surat-jalan2.png)
+    ![](/images/warehouse/surat-jalan/Surat-Jalan3.png)
 
-3. Isi informasi project seperti ID Project & Batch, lalu informasi pengirimannya.
+   
+3. Pilih ID Project dan Batch dari dropdown list
 
-    ![Langkah 3: Isi ID Project, Batch, Alamat pengiriman](/images/warehouse/surat-jalan/surat-jalan3.png)
+4. Masukkan Alamat Kirim, Penerima, Tanggal Kirim, Nomor Mobil, dan Driver
 
-4. Isi jumlah barang yang akan dikirim
+5. Pilih barang yang akan dikirim, masukkan jumlahnya
 
-    ![Langkah 4: Isi jumlah barang yang akan dikirim](/images/warehouse/surat-jalan/surat-jalan4.png)
+6. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
 
-5. Klik Simpan Draft
+    ![](/images/warehouse/surat-jalan/Surat-Jalan5.png)
 
-    ![Langkah 5: Klik tombol Simpan draft](/images/warehouse/surat-jalan/surat-jalan5.png)
-
-6. Klik Ajukan tinjauan
-
-    ![Langkah 6: Klik tombol Ajukan tinjauan](/images/warehouse/surat-jalan/surat-jalan6.png)
-
-Surat jalan yang disimpan pada tahap ini berstatus draf dan akan ditinjau Super Admin.
+7. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin

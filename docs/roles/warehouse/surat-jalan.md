@@ -41,4 +41,4 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
     ![](/images/warehouse/surat-jalan/Surat-Jalan5.png)
 
-7. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin
+7. Klik tombol <img src="/images/warehouse/surat-jalan/Surat-Jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin.

@@ -15,20 +15,18 @@ Gunakan fitur ini untuk mencatat material yang baru diterima. Material dapat dic
 
 Pencatatan penerimaan menambah stok sesuai material dan jumlah yang diterima.
 
-### Langkah-langkah
+### Cara Menerima Material
 
 1. Buka Menu Dashboard.
   <img src="/images/warehouse/penerimaan-material/penerimaan1.png" alt="Langkah 1: Pilih menu Dashboard" style="display: block; max-width: 100%; height: auto;">
 2. Klik tombol <img src="/images/warehouse/penerimaan-material/penerimaan2.png" alt="tombol terima material" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
    <img src="/images/warehouse/penerimaan-material/penerimaan3.png" alt="Langkah 1: Pilih menu Dashboard" style="display: block; max-width: 100%; height: auto;">
-3. Pilih **[jenis penerimaan atau tujuan stok yang tersedia]**.
-   > **Gambar langkah 3:** Tambahkan screenshot pilihan tujuan penerimaan.
-4. Isi informasi yang diminta: **[nama field dan cara mengisinya]**.
-   > **Gambar langkah 4:** Tambahkan screenshot formulir penerimaan material.
-5. Periksa kembali data, lalu klik **[nama tombol untuk menyimpan penerimaan]**.
-   > **Gambar langkah 5:** Tambahkan screenshot tombol simpan atau konfirmasi.
-6. Pastikan penerimaan berhasil dan stok sudah tercatat.
-   > **Gambar langkah 6:** Tambahkan screenshot notifikasi berhasil atau hasil pencatatan.
+3. Klik asal material, dari proyek atau gudang
+4. Pilih proyek, purchase order, dan gudang dari dropdown list. Masukkan tanggal terima, jika diperlukan isi catatan
+5. Masukkan jumlah material yang telah diterima
+6. Klik tombol <img src="/images/warehouse/penerimaan-material/penerimaan4.png" alt="tombol simpan penerimaan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+   <img src="/images/warehouse/penerimaan-material/penerimaan5.png" alt="" style="display: block; max-width: 100%; height: auto;">
+   Penerimaan material berhasil dicatat
 
 ## Transfer Stok Proyek ke Stok Gudang
 

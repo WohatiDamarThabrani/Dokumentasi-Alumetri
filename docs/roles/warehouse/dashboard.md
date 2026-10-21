@@ -32,22 +32,18 @@ Pencatatan penerimaan menambah stok sesuai material dan jumlah yang diterima.
 
 Gunakan fitur transfer untuk memindahkan sisa material dari **Stok Proyek** ke **Stok Gudang**, agar dapat digunakan untuk kebutuhan lain.
 
-### Langkah-langkah
+### Cara Memindahkan Stok
 
-> Lengkapi teks dalam tanda kurung siku dan ganti penanda gambar dengan screenshot aplikasi.
-
-1. Buka halaman Dashboard Warehouse.
-   > **Gambar langkah 1:** Tambahkan screenshot dashboard dan lokasi fitur transfer stok.
-2. Klik **[nama tombol atau menu untuk transfer stok]**.
-   > **Gambar langkah 2:** Tambahkan screenshot tombol atau menu transfer stok.
-3. Pilih **[proyek dan material yang stoknya akan dipindahkan]**.
-   > **Gambar langkah 3:** Tambahkan screenshot pemilihan proyek dan material.
-4. Masukkan **[jumlah material yang akan ditransfer]** dan isi **[field lain yang diperlukan]**.
-   > **Gambar langkah 4:** Tambahkan screenshot formulir transfer stok.
-5. Periksa kembali data, lalu klik **[nama tombol untuk menyimpan transfer]**.
-   > **Gambar langkah 5:** Tambahkan screenshot tombol simpan atau konfirmasi.
-6. Pastikan transfer berhasil, jumlah Stok Proyek berkurang, dan Stok Gudang bertambah.
-   > **Gambar langkah 6:** Tambahkan screenshot notifikasi berhasil atau hasil pencatatan.
+1. Buka Menu Dashboard.
+  <img src="/images/warehouse/transfer-stok/transfer1.png" alt="Langkah 1: Pilih menu Dashboard" style="display: block; max-width: 100%; height: auto;">
+2. Klik tombol <img src="/images/warehouse/transfer-stok/transfer2.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+   <img src="/images/warehouse/transfer-stok/transfer3.png" alt="" style="display: block; max-width: 100%; height: auto;">
+3. Klik asal material, dari proyek atau gudang
+4. Pilih proyek asal, kategori, gudang asal, gudang tujuan dari dropdown list. Masukkan tanggal pindah, jika diperlukan isi catatan
+5. Masukkan jumlah material yang akan dipindahkan
+6. Klik tombol <img src="/images/warehouse/transfer-stok/transfer4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+   <img src="/images/warehouse/transfer-stok/transfer5.png" alt="" style="display: block; max-width: 100%; height: auto;">
+   Material sudah berhasil dipindahkan
 
 ## Istilah Stok
 

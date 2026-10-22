@@ -4,7 +4,7 @@ outline: deep
 
 # Daftar Produksi
 
-Halaman **Daftar Produksi** membantu Production + Warehouse memantau progress produksi proyek yang sedang berjalan, mulai dari ringkasan hingga rincian per komponen dan riwayat pencatatan produksi.
+Halaman **Daftar Produksi** membantu Production Plus Warehouse memantau progress produksi proyek yang sedang berjalan, mulai dari ringkasan hingga rincian per komponen dan riwayat pencatatan produksi.
 
 ## Memilih Proyek
 

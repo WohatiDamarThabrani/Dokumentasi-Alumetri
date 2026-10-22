@@ -4,7 +4,7 @@ outline: deep
 
 # Project & Production
 
-Modul **Project & Production** pada role Production + Warehouse mengelompokkan halaman pemantauan produksi, inventory barang, dan pengiriman.
+Modul **Project & Production** pada role Production Plus Warehouse mengelompokkan halaman pemantauan produksi, inventory barang, dan pengiriman.
 
 ## Halaman Project & Production
 

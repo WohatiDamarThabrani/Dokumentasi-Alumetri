@@ -194,7 +194,7 @@ export default defineConfig({
             ]
           },
               {
-                text: 'Production + Warehouse',
+                text: 'Production Plus Warehouse',
                 link: '/roles/production-warehouse',
                 items: [
                   { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },
@@ -496,7 +496,7 @@ export default defineConfig({
             ]
           },
                     {
-                      text: 'Production + Warehouse',
+                      text: 'Production Plus Warehouse',
                       link: '/roles/production-warehouse',
                       items: [
                         { text: 'Dashboard', link: '/roles/production-warehouse/dashboard' },

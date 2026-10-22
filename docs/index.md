@@ -14,8 +14,8 @@ features:
     title: "Purchasing"
     details: "Pengadaan material serta pemantauan pesanan pembelian."
     link: "/roles/purchasing"
-  - icon: { src: "/role-icons/production-warehouse.svg", alt: "Ikon Production + Warehouse" }
-    title: "Production + Warehouse"
+  - icon: { src: "/role-icons/production-warehouse.svg", alt: "Ikon Production Plus Warehouse" }
+    title: "Production Plus Warehouse"
     details: "Koordinasi proses produksi dan aktivitas gudang."
     link: "/roles/production-warehouse"
   - icon: { src: "/role-icons/warehouse.svg", alt: "Ikon Warehouse" }

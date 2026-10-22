@@ -4,7 +4,7 @@ outline: deep
 
 # Surat Jalan
 
-Role Production + Warehouse dapat membuat surat jalan untuk pengiriman barang jadi. Surat jalan mencatat proyek dan batch terkait, informasi tujuan pengiriman, serta barang yang dikirim.
+Role Production Plus Warehouse dapat membuat surat jalan untuk pengiriman barang jadi. Surat jalan mencatat proyek dan batch terkait, informasi tujuan pengiriman, serta barang yang dikirim.
 
 ## Informasi Surat Jalan
 

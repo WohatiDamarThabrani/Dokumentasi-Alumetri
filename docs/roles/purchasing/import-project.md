@@ -18,17 +18,17 @@ Halaman **Import Project** digunakan oleh Purchasing untuk mengunggah shop drawi
 
     <img src="/images/purchasing/import_proyek/import3.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-4. Klik tombol <img src="/images/purchasing/import_proyek/import4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;  margin: 0;">, lalu akan tampil halaman berikut
+4. Klik tombol <img src="/images/purchasing/import_proyek/import4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;  margin: 0;"> untuk menuju halaman konfirmasi di bawah ini
 
     <img src="/images/purchasing/import_proyek/import5.png" alt="" style="display: block; max-width: 100%; height: auto;">
    
 5. Pilih kode gambar yang sesuai 
 
-6. Klik tombol <img src="/images/purchasing/import_proyek/import6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan tampil halaman berikut
+6. Klik tombol <img src="/images/purchasing/import_proyek/import6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menuju halaman petak penuh 
 
     <img src="/images/purchasing/import_proyek/import7.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-7. Klik tombol <img src="/images/purchasing/import_proyek/import8.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan tampil halaman berikut
+7. Klik tombol <img src="/images/purchasing/import_proyek/import8.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan shop drawing
 
     <img src="/images/purchasing/import_proyek/import9.png" alt="" style="display: block; max-width: 100%; height: auto;">
 

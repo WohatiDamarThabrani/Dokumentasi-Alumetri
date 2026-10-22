@@ -26,8 +26,7 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
    <img src="/images/warehouse/surat-jalan/surat-jalan1.png" alt="Langkah 1: Pilih menu Daftar Surat Jalan" style="display: block; max-width: 100%; height: auto;">
 
-2. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
-
+2. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan tampil halaman berikut
     <img src="/images/warehouse/surat-jalan/surat-jalan3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
    
@@ -37,8 +36,7 @@ Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap baran
 
 5. Pilih barang yang akan dikirim, masukkan jumlahnya
 
-6. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
-
+6. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan tampil halaman berikut
     <img src="/images/warehouse/surat-jalan/surat-jalan5.png" alt="Rincian draf surat jalan sebelum diajukan" style="display: block; max-width: 100%; height: auto;">
 
-7. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin
+7. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengirimkan draf agar ditinjau oleh admin

@@ -6,26 +6,35 @@ outline: deep
 
 Purchase Order (PO) digunakan untuk mencatat pemesanan material kepada pemasok untuk sebuah proyek. PO yang selesai diisi perlu diajukan tinjauannya agar tersimpan sebagai draf dan dikirim ke role Super Admin untuk disetujui.
 
-## Membuat Purchase Order
+## Cara Membuat Purchase Order
 
-1. Buka halaman **Daftar Project**, lalu pilih proyek yang akan dibuatkan PO.
-2. Pada halaman proyek, pilih menu **Purchase Order**.
-3. Klik tombol **Buat PO**.
-4. Pilih **Pemasok** dan **Kategori Material**.
-5. Tambahkan material yang akan dipesan. Material dapat berupa profil, aksesoris, atau kaca.
-6. Isi informasi setiap material:
+1. Buka menu Daftar Project
 
-   | Kolom | Keterangan |
-   | --- | --- |
-   | **Kode section profil** | Kode section untuk material profil. |
-   | **Length** | Panjang material. |
-   | **Finish color** | Warna finishing material. |
-   | **Quantity** | Jumlah material yang dipesan. |
-   | **Unit price** | Harga satuan material. |
-   | **Amount** | Nilai untuk material tersebut. |
+   <img src="/images/purchasing/purchase-order/PO1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-7. Periksa material dan nilai yang dimasukkan. Sistem menghitung total harga PO secara otomatis.
-8. Klik **Simpan**.
-9. Klik **Ajukan Tinjauan** di bagian atas halaman untuk menyimpan PO sebagai draf dan mengirimkannya ke role Super Admin untuk disetujui.
+2. Klik proyek yang akan dibuatkan PO
 
-> **Penting:** Menyimpan PO saja belum mengirimkannya untuk persetujuan. Pastikan **Ajukan Tinjauan** juga diklik.
+3. Pada halaman proyek, pilih menu **Purchase Order**. Tampilannya seperti berikut
+
+    <img src="/images/purchasing/purchase-order/PO2.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+4. Klik tombol <img src="/images/purchasing/purchase-order/PO3.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan muncul pop up seperti berikut
+
+    <img src="/images/purchasing/purchase-order/PO4.png" alt="" style="display: block; max-width: 100%; height: auto;">
+   
+5. Pilih pemasok dari dropdown list
+
+6. Pilih kategori material yang akan dipesan
+
+7. Klik tombol <img src="/images/purchasing/purchase-order/PO5.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, kemudian akan diarahkan ke halaman berikut
+
+    <img src="/images/purchasing/purchase-order/PO6.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+7. Klik tombol <img src="/images/purchasing/purchase-order/PO7.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> sesuai kategori material yang ingin dipesan
+
+8. Pilih material yang ingin di PO
+9. Klik tombol <img src="/images/purchasing/purchase-order/PO8.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">
+
+10. Klik tombol <img src="/images/purchasing/purchase-order/PO9.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">
+
+Draft Purchase Order berhasil dibuat

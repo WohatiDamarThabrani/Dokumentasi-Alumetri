@@ -9,7 +9,6 @@ Purchase Order (PO) digunakan untuk mencatat pemesanan material kepada pemasok u
 ## Cara Membuat Purchase Order
 
 1. Buka menu Daftar Project
-
    <img src="/images/purchasing/purchase-order/PO1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
 2. Klik proyek yang akan dibuatkan PO

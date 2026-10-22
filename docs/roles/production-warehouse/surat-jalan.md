@@ -21,10 +21,16 @@ Role Production + Warehouse dapat membuat surat jalan untuk pengiriman barang ja
 Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap barang yang dipilih.
 
 ## Membuat Draf Surat Jalan
+1. Buka menu Daftar Surat Jalan.
+   <img src="/images/warehouse/surat-jalan/surat-jalan1.png" alt="Langkah 1: Pilih menu Daftar Surat Jalan" style="display: block; max-width: 100%; height: auto;">
 
-1. Isi ID proyek dan batch yang terkait.
-2. Isi alamat pengiriman, penerima, dan tanggal kirim.
-3. Pilih barang jadi yang akan dikirim dan masukkan jumlahnya.
-4. Simpan surat jalan sebagai draf.
+2. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+    <img src="/images/warehouse/surat-jalan/surat-jalan3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-Surat jalan yang disimpan pada tahap ini berstatus draf.
+3. Pilih ID Project dan Batch dari dropdown list
+4. Masukkan Alamat Kirim, Penerima, Tanggal Kirim, Nomor Mobil, dan Driver
+5. Pilih barang yang akan dikirim, masukkan jumlahnya
+6. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;">, lalu akan tampil halaman berikut
+    <img src="/images/warehouse/surat-jalan/surat-jalan5.png" alt="Rincian draf surat jalan sebelum diajukan" style="display: block; max-width: 100%; height: auto;">
+
+7. Klik tombol <img src="/images/warehouse/surat-jalan/surat-jalan6.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle;"> untuk mengirimkan draf agar ditinjau oleh admin

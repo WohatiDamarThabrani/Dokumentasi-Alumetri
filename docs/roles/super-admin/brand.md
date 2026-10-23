@@ -6,36 +6,78 @@ outline: deep
 
 Halaman **Brand** pada modul **Master Data** digunakan untuk mengelola daftar brand yang tersedia di dalam sistem. Super Admin dapat menambahkan brand satu per satu atau melalui impor file, mengekspor daftar brand, serta mengelola brand yang sudah dihapus melalui kotak sampah.
 
-## Menambahkan Brand
+## Cara Menambahkan Brand
 
-1. Buka halaman **Brand** dari modul **Master Data**.
-2. Klik **Tambah Brand** di pojok kanan atas halaman.
-3. Isi **Kode** dan **Nama** brand.
-4. Tentukan **Status Aktif**.
-5. Klik **Simpan**.
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Menghapus Brand
+2. Klik tombol <img src="/images/super-admin/brand/brand2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/brand/brand3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-1. Temukan brand yang akan dihapus pada tabel.
-2. Pada kolom **Aksi**, klik ikon tempat sampah pada baris brand tersebut.
-3. Konfirmasikan penghapusan jika diminta.
+3. Masukkan kode, nama, serta pilih status aktif dari dropdown list
 
-Brand yang dihapus akan masuk ke kotak sampah dan masih dapat dipulihkan atau dihapus permanen.
+4. Klik tombol <img src="/images/super-admin/brand/brand4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
-## Memulihkan atau Menghapus Permanen Brand
 
-1. Klik tombol **Kotak Sampah** di bagian atas halaman.
-2. Pilih brand yang akan dikelola.
-3. Pilih tindakan **Pulihkan** untuk mengembalikan brand ke daftar aktif, atau **Hapus Permanen** untuk menghapusnya secara permanen.
-4. Konfirmasikan tindakan jika diminta.
+## Cara Menghapus Brand
 
-## Mengimpor Brand
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Kode**, **Nama**, dan **Aktif**.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Pastikan proses impor selesai dan periksa hasilnya pada tabel Brand.
+2. Klik logo <img src="/images/super-admin/brand/brand5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/brand/brand6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-## Mengekspor Brand
+3. Klik tombol <img src="/images/super-admin/brand/brand7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar brand dalam format Excel.
+Brand masuk ke dalam kotak sampah
+
+
+## Cara memulihkan brand yang ada di dalam kotak sampah 
+
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/brand/brand8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/brand/brand9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/brand/brand10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan brand dari kotak sampah
+
+## Cara menghapus brand secara permanen
+
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/brand/brand8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/brand/brand9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/brand/brand11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/brand/brand13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+Brand sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor Brand
+
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/brand/brand14.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/brand/brand15.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/brand/brand16.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/brand/brand17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Brand telah berhasil diimpor
+
+## Cara Mengekspor Brand
+
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/brand/brand20.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor brand
+    

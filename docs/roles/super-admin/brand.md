@@ -29,7 +29,7 @@ Halaman **Brand** pada modul **Master Data** digunakan untuk mengelola daftar br
 
 3. Klik tombol <img src="/images/super-admin/brand/brand7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-Brand masuk ke dalam kotak sampah
+Brand berhasil dimasukkan ke dalam kotak sampah
 
 
 ## Cara memulihkan brand yang ada di dalam kotak sampah 

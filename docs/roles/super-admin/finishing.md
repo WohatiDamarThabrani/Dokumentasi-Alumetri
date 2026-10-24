@@ -6,28 +6,79 @@ outline: deep
 
 Halaman **Finishing** pada modul **Master Data** digunakan untuk mengelola data warna dan lapisan permukaan profil. Super Admin dapat menambahkan dan mengimpor data finishing, mengekspor daftar, serta mengelola data yang dihapus melalui kotak sampah.
 
-## Menambahkan Finishing
+## Cara Menambahkan Finishing
 
-1. Buka halaman **Finishing** dari modul **Master Data**.
-2. Klik **Tambah Finishing** di bagian atas halaman.
-3. Masukkan **Kode** dan **Nama** finishing.
-4. Simpan data finishing.
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengimpor Finishing
+2. Klik tombol <img src="/images/super-admin/finishing/finishing2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/finishing/finishing3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Kode** dan **Nama**.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Periksa hasil impor pada tabel Finishing.
+3. Masukkan kode dan nama
 
-## Menghapus, Memulihkan, atau Menghapus Permanen Finishing
+4. Klik tombol <img src="/images/super-admin/finishing/finishing4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
-Alur penghapusan finishing sama seperti pada [halaman Brand](/roles/super-admin/brand):
 
-1. Pada kolom **Aksi** di tabel Finishing, klik ikon tempat sampah pada baris data yang akan dihapus dan konfirmasikan jika diminta. Data yang dihapus akan masuk ke kotak sampah.
-2. Klik **Kotak Sampah** di bagian atas halaman.
-3. Pilih data yang akan dikelola, lalu pilih **Pulihkan** untuk mengembalikannya atau **Hapus Permanen** untuk menghapusnya secara permanen. Konfirmasikan tindakan jika diminta.
+## Cara Menghapus finishing
 
-## Mengekspor Finishing
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar finishing dalam format Excel.
+2. Klik logo <img src="/images/super-admin/finishing/finishing5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/finishing/finishing6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/finishing/finishing7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Finishing berhasil dimasukkan ke dalam kotak sampah
+
+
+## Cara memulihkan finishing yang ada di dalam kotak sampah 
+
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/finishing/finishing8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/finishing/finishing9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/finishing/finishing10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan finishing dari kotak sampah
+
+## Cara menghapus finishing secara permanen
+
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/finishing/finishing8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/finishing/finishing9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/finishing/finishing11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/finishing/finishing12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+Finishing sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor Finishing
+
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/finishing/finishing13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/finishing/finishing14.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/finishing/finishing15.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/finishing/finishing16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Finishing telah berhasil diimpor
+
+## Cara Mengekspor Finishing
+
+1. Buka menu finishing.
+   <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/finishing/finishing17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor finishing
+
+

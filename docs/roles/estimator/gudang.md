@@ -6,31 +6,77 @@ outline: deep
 
 Halaman **Gudang** pada modul **Master Data** digunakan Estimator untuk mengelola gudang fisik tempat stok disimpan. Estimator dapat menambah, mengimpor, mengekspor, menghapus, memulihkan, dan menghapus data gudang secara permanen.
 
-## Menambahkan Gudang
+## Cara Menambahkan gudang
 
-1. Buka halaman **Gudang** dari modul **Master Data**.
-2. Klik **Tambah Gudang** di bagian atas halaman.
-3. Masukkan **Kode Gudang** dan **Nama Gudang**.
-4. Tentukan **Gudang Bawaan** dengan memilih **Ya** atau **Tidak**.
-5. Tentukan **Aktif** dengan memilih **Ya** atau **Tidak**.
-6. Jika tersedia, isi **Alamat**. Isian ini bersifat opsional.
-7. Simpan data gudang.
+1. Buka menu gudang.
+   <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengimpor Gudang
+2. Klik tombol <img src="/images/super-admin/gudang/g2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/gudang/g3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Kode Gudang**, **Nama Gudang**, **Gudang Bawaan**, dan **Aktif**. Kolom **Alamat** dapat disertakan sebagai isian opsional. Nilai **Gudang Bawaan** dan **Aktif** diisi **Ya** atau **Tidak**.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Periksa hasil impor pada tabel Gudang.
+3. Masukkan kode, nama, alamat serta pilih gudang bawaan dan status aktif dari dropdown list
 
-## Menghapus, Memulihkan, atau Menghapus Permanen Gudang
+4. Klik tombol <img src="/images/super-admin/gudang/g4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
-Alur penghapusan gudang sama seperti pada [halaman Brand](/roles/estimator/brand):
 
-1. Pada kolom **Aksi** di tabel Gudang, klik ikon tempat sampah pada baris gudang yang akan dihapus dan konfirmasikan jika diminta. Gudang yang dihapus akan masuk ke kotak sampah.
-2. Klik **Kotak Sampah** di bagian atas halaman.
-3. Pilih gudang yang akan dikelola, lalu pilih **Pulihkan** untuk mengembalikannya atau **Hapus Permanen** untuk menghapusnya secara permanen. Konfirmasikan tindakan jika diminta.
+## Cara Menghapus gudang
 
-## Mengekspor Gudang
+1. Buka menu gudang.
+   <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar gudang dalam format Excel.
+2. Klik logo <img src="/images/super-admin/gudang/g5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/gudang/g6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/gudang/g7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+gudang berhasil dimasukkan ke dalam kotak sampah
+
+## Cara memulihkan gudang yang ada di dalam kotak sampah 
+
+1. Buka menu gudang.
+    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/gudang/g8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/gudang/g17.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/gudang/g9.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan gudang dari kotak sampah
+
+
+## Cara menghapus gudang secara permanen
+
+1. Buka menu gudang.
+    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/gudang/g8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/gudang/g17.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/gudang/g10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/gudang/g11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+gudang sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor gudang
+
+1. Buka menu gudang.
+    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/gudang/g12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/gudang/g13.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/gudang/g14.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/gudang/g15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+gudang telah berhasil diimpor
+
+## Cara Mengekspor customer
+
+1. Buka menu gudang.
+    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/gudang/g16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor gudang

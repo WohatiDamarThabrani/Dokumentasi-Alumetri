@@ -44,7 +44,7 @@ Profil Aluminium berhasil dimasukkan ke dalam kotak sampah
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> Setelah itu akan muncul pop-up seperti berikut
+2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> Setelah itu akan muncul form seperti berikut
     <img src="/images/super-admin/profil-aluminium/pa12.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
 3. Klik tombol <img src="/images/super-admin/profil-aluminium/pa13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan profil aluminium dari kotak sampah
@@ -55,7 +55,7 @@ Profil Aluminium berhasil dimasukkan ke dalam kotak sampah
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop-up berikut
+2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
     <img src="/images/super-admin/profil-aluminium/pa12.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
 3. Klik tombol <img src="/images/super-admin/profil-aluminium/pa14.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
@@ -70,7 +70,7 @@ profil aluminium sudah berhasil dihapus permanen
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+2. Klik tombol <img src="/images/super-admin/profil-aluminium/pa16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
     <img src="/images/super-admin/profil-aluminium/pa17.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
 3. Upload file dalam bentuk .xlsx atau .csv

@@ -6,29 +6,77 @@ outline: deep
 
 Halaman **Customer** pada modul **Master Data** digunakan Estimator untuk mengelola data customer, yaitu developer perumahan yang menjadi lawan penawaran. Estimator dapat menambah, mengimpor, mengekspor, menghapus, memulihkan, dan menghapus data customer secara permanen.
 
-## Menambahkan Customer
+## Cara Menambahkan customer
 
-1. Buka halaman **Customer** dari modul **Master Data**.
-2. Klik **Tambah Customer** di bagian atas halaman.
-3. Masukkan **Nama Perusahaan**.
-4. Jika tersedia, isi **NPWP**, **Telepon**, **Email**, dan **Alamat**. Isian tersebut bersifat opsional.
-5. Simpan data customer.
+1. Buka menu customer.
+   <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengimpor Customer
+2. Klik tombol <img src="/images/super-admin/customer/cus2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/customer/cus3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Nama Perusahaan**. Kolom **NPWP**, **Telepon**, **Email**, dan **Alamat** dapat disertakan sebagai isian opsional.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Periksa hasil impor pada tabel Customer.
+3. Masukkan nama, npwp, email, telepon, dan alamat
 
-## Menghapus, Memulihkan, atau Menghapus Permanen Customer
+4. Klik tombol <img src="/images/super-admin/customer/cus4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
-Alur penghapusan customer sama seperti pada [halaman Brand](/roles/estimator/brand):
 
-1. Pada kolom **Aksi** di tabel Customer, klik ikon tempat sampah pada baris customer yang akan dihapus dan konfirmasikan jika diminta. Customer yang dihapus akan masuk ke kotak sampah.
-2. Klik **Kotak Sampah** di bagian atas halaman.
-3. Pilih customer yang akan dikelola, lalu pilih **Pulihkan** untuk mengembalikannya atau **Hapus Permanen** untuk menghapusnya secara permanen. Konfirmasikan tindakan jika diminta.
+## Cara Menghapus customer
 
-## Mengekspor Customer
+1. Buka menu customer.
+   <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar customer dalam format Excel.
+2. Klik logo <img src="/images/super-admin/customer/cus5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/customer/cus6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/customer/cus7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+customer berhasil dimasukkan ke dalam kotak sampah
+
+## Cara memulihkan customer yang ada di dalam kotak sampah 
+
+1. Buka menu customer.
+    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/customer/cus8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/customer/cus9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/customer/cus10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan customer dari kotak sampah
+
+
+## Cara menghapus customer secara permanen
+
+1. Buka menu customer.
+    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/customer/cus8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/customer/cus9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/customer/cus11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/customer/cus12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+customer sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor customer
+
+1. Buka menu customer.
+    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/customer/cus13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/customer/cus17.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/customer/cus14.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/customer/cus15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+customer telah berhasil diimpor
+
+## Cara Mengekspor customer
+
+1. Buka menu customer.
+    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/customer/cus16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor customer

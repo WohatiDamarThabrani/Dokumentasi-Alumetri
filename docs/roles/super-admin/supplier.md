@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Supplier** pada modul **Master Data** digunakan untuk mengelola pemasok aluminium, aksesoris, dan kaca yang dipakai saat menyusun Purchase Order (PO).
 
-## Cara Menambahkan Seri Profil
+## Cara Menambahkan Supplier
 
 1. Buka menu Supplier.
    <img src="/images/super-admin/supplier/sup1.png" alt="" style="display: block; max-width: 100%; height: auto;">

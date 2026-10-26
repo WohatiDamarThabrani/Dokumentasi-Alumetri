@@ -4,6 +4,8 @@ outline: deep
 
 # Import Project
 
+Super Admin dapat mengimpor project dengan mengunggah shop drawing ke dalam sistem.
+
 ## Cara Mengunggah Shop Drawing
 
 1. Buka menu Import Proyek

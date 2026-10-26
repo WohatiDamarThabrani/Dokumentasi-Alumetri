@@ -8,6 +8,13 @@ Tugas Super Admin pada halaman ini adalah meninjau dan menyetujui draft Purchase
 
 ## Meninjau Purchase Order
 
-1. Buka daftar Purchase Order dan pilih draft yang diajukan role lain.
-2. Periksa project terkait, pemasok, kategori material, rincian barang, quantity, harga, total nilai, dan status PO.
-3. Setelah meninjau informasinya, gunakan tindakan persetujuan yang tersedia bagi Super Admin.
+1. Buka menu Daftar Purchase Order.
+
+   <img src="/images/super-admin/PO/PO1.png" alt="Langkah 1: Pilih menu Daftar Surat Jalan" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik project yang statusnya masih perlu ditinjau. Lalu akan tampil halaman seperti berikut
+    <img src="/images/super-admin/PO/PO2.png" alt="Langkah 1: Pilih menu Daftar Surat Jalan" style="display: block; max-width: 100%; height: auto;">
+   
+3. Periksa pemasok, kategori material, rincian material, quantity, dan harga
+
+4. Ketika semuanya sudah sesuai, klik tombol <img src="/images/super-admin/PO/PO3.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui draft Purchase Order tersebut

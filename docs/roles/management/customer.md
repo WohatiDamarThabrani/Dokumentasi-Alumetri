@@ -6,12 +6,11 @@ outline: deep
 
 Halaman **Customer** pada modul **Master Data** menampilkan data customer, yaitu developer perumahan yang menjadi lawan penawaran.
 
-## Melihat Data Customer
+## Cara Mengekspor customer
 
-Tinjau nama perusahaan pada daftar customer. Jika tersedia, data juga memuat NPWP, telepon, email, dan alamat.
+1. Buka menu customer.
+    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengekspor Data Customer
-
-Klik **Export** untuk mengunduh daftar customer dalam format Excel.
+2. Klik tombol <img src="/images/super-admin/customer/cus16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor customer
 
 Management hanya dapat melihat dan mengekspor data. Fitur untuk menambah, mengubah, mengimpor, atau menghapus customer tidak tersedia.

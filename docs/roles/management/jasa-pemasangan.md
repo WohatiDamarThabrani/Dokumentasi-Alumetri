@@ -6,12 +6,11 @@ outline: deep
 
 Halaman **Jasa Pemasangan** pada modul **Master Data** menampilkan katalog jasa pemasangan beserta harga aktifnya.
 
-## Melihat Katalog Jasa Pemasangan
+## Cara Mengekspor Jasa Pemasangan
 
-Tinjau kode, deskripsi, satuan, deskripsi lapangan jika tersedia, serta harga yang berlaku. Satuan dapat disesuaikan dengan kebutuhan, misalnya **pcs** atau **set**.
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengekspor Katalog Jasa Pemasangan
-
-Klik **Export** untuk mengunduh daftar jasa pemasangan dalam format Excel.
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor Jasa Pemasangan
 
 Management hanya dapat melihat dan mengekspor data. Fitur untuk menambah, mengubah, mengimpor, atau menghapus jasa pemasangan tidak tersedia.

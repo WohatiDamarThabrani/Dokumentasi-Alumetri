@@ -6,12 +6,11 @@ outline: deep
 
 Halaman **Brand** pada modul **Master Data** menampilkan daftar brand yang digunakan sebagai referensi di dalam sistem.
 
-## Melihat Data Brand
+## Cara Mengekspor Brand
 
-Tinjau daftar brand beserta kode, nama, dan status aktifnya pada tabel. Informasi ini menjadi referensi bagi data dan proses lain di dalam sistem.
+1. Buka menu brand.
+   <img src="/images/super-admin/brand/brand1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengekspor Data Brand
-
-Klik **Export** untuk mengunduh daftar brand dalam format Excel.
+2. Klik tombol <img src="/images/super-admin/brand/brand20.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor brand
 
 Management hanya dapat melihat dan mengekspor data. Fitur untuk menambah, mengubah, mengimpor, atau menghapus brand tidak tersedia.

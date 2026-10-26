@@ -4,33 +4,84 @@ outline: deep
 
 # Jasa Pemasangan
 
-Halaman **Jasa Pemasangan** pada modul **Master Data** digunakan Purchasing untuk mengelola katalog jasa pemasangan beserta harga aktifnya.
+Halaman **Jasa Pemasangan** pada modul **Master Data** digunakan Purchasing untuk mengelola katalog jasa pemasangan.
 
-## Menambahkan Jasa Pemasangan
+## Cara Menambahkan Jasa Pemasangan
 
-1. Buka halaman **Jasa Pemasangan** dari modul **Master Data**.
-2. Klik **Tambah Jasa Pemasangan** di bagian atas halaman.
-3. Isi **Kode**, **Deskripsi**, dan **Satuan**.
-4. Jika diperlukan, isi **Deskripsi Lapangan**. Isian ini bersifat opsional.
-5. Simpan data jasa pemasangan.
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Satuan dapat disesuaikan dengan kebutuhan, misalnya **pcs** atau **set**.
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-## Mengimpor Jasa Pemasangan
+3. Masukkan kode, deskripsi, deskpripsi lapangan, dan satuan
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Kode**, **Deskripsi**, dan **Satuan**. Kolom **Deskripsi Lapangan** dapat disertakan sebagai isian opsional.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Periksa hasil impor pada tabel Jasa Pemasangan.
+4. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan.  
 
-## Menghapus, Memulihkan, atau Menghapus Permanen Jasa Pemasangan
+Jasa Pemasangan berhasil ditambahkan
 
-Alur penghapusan jasa pemasangan sama seperti pada [halaman Brand](/roles/purchasing/brand):
+## Cara Menghapus Jasa Pemasangan
 
-1. Pada kolom **Aksi** di tabel Jasa Pemasangan, klik ikon tempat sampah pada baris jasa yang akan dihapus dan konfirmasikan jika diminta. Data yang dihapus akan masuk ke kotak sampah.
-2. Klik **Kotak Sampah** di bagian atas halaman.
-3. Pilih jasa yang akan dikelola, lalu pilih **Pulihkan** untuk mengembalikannya atau **Hapus Permanen** untuk menghapusnya secara permanen. Konfirmasikan tindakan jika diminta.
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-## Mengekspor Jasa Pemasangan
+2. Klik logo <img src="/images/super-admin/jasa-pemasangan/jp5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar jasa pemasangan dalam format Excel.
+3. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Jasa Pemasangan berhasil dimasukkan ke dalam kotak sampah
+
+## Cara memulihkan Jasa Pemasangan yang ada di dalam kotak sampah 
+
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> Setelah itu akan muncul form seperti berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Jasa Pemasangan dari kotak sampah
+
+
+## Cara menghapus Jasa Pemasangan secara permanen
+
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/jasa-pemasangan/jp12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+Jasa Pemasangan sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor Jasa Pemasangan
+
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp14.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/jasa-pemasangan/jp15.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/jasa-pemasangan/jp16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Jasa Pemasangan telah berhasil diimpor
+
+## Cara Mengekspor Jasa Pemasangan
+
+1. Buka menu Jasa Pemasangan.
+   <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor Jasa Pemasangan
+
+## Mengisi Harga Tanpa PPN
+
+Kolom **Harga Tanpa PPN** pada tabel Jasa Pemasangan diisi melalui halaman **Price & Cost**, bukan dari halaman Jasa Pemasangan.

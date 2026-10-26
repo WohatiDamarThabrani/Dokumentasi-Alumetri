@@ -4,7 +4,7 @@ outline: deep
 
 # Surat Jalan
 
-Role Warehouse dapat membuat surat jalan untuk pengiriman barang jadi. Surat jalan mencatat proyek dan batch terkait, informasi tujuan pengiriman, serta barang yang dikirim.
+Role Warehouse dapat membuat surat jalan untuk pengiriman barang jadi. 
 
 ## Membuat Draf Surat Jalan
 

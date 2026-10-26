@@ -25,7 +25,3 @@ Tinjau informasi tipologi unit pada tabel:
 Formula set BOM berisi baris komponen yang digunakan oleh tipologi unit. Informasi pada baris BOM mencakup grup komponen (**Aluminium**, **Aksesoris**, **Kaca**, atau **Jasa Pemasangan**), item/komponen, nomor part, UOM, tingkat pembulatan, serta rumus komponen seperti keterangan penggunaan, lebar potong, tinggi potong, dan jumlah.
 
 Tinjau versi formula set dan status aktifnya pada tipologi terkait. Setiap tipologi menggunakan formula set aktifnya masing-masing.
-
-## Mengekspor Data
-
-Gunakan **Export** untuk mengunduh daftar tipologi dalam format Excel. Management hanya dapat meninjau BOM; fitur untuk membuat, menyetujui, mengaktifkan, mengimpor, atau mengubah tipologi dan formula set tidak tersedia.

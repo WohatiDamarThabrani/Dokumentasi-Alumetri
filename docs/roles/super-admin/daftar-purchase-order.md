@@ -17,4 +17,4 @@ Tugas Super Admin pada halaman ini adalah meninjau dan menyetujui draft Purchase
    
 3. Periksa pemasok, kategori material, rincian material, quantity, dan harga
 
-4. Ketika semuanya sudah sesuai, klik tombol <img src="/images/super-admin/PO/PO3.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui draft Purchase Order tersebut
+4. Setelah semuanya sudah sesuai, klik tombol <img src="/images/super-admin/PO/PO3.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui draft Purchase Order tersebut

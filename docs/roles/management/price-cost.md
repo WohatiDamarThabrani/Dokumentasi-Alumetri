@@ -12,8 +12,3 @@ Tinjau daftar pricelist dan versi yang tersedia, termasuk brand, nama versi, tan
 
 Informasi PPN pada pricelist menunjukkan apakah harga yang dicatat sudah termasuk PPN.
 
-## Mengekspor Data Price & Cost
-
-Gunakan aksi **Export** pada halaman untuk mengunduh data harga dan biaya dalam format yang disediakan.
-
-Management hanya dapat melihat dan mengekspor data. Fitur untuk membuat atau mengubah pricelist, mengisi harga, mengaktifkan versi, atau menghapus data tidak tersedia.

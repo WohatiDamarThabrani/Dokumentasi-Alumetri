@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Parameter Teknis** pada modul **Master Data** menampilkan konstanta bernama yang digunakan pada baris rumus. Parameter berlaku pada rumus yang menyebutkannya selama brand dan tipe unit rumus sesuai dengan lingkup parameter.
 
-## Cara Mengekspor profil aluminium
+## Cara Mengekspor Parameter Teknis
 
 1. Buka menu Parameter Teknis.
    <img src="/images/super-admin/parameter/p1.png" alt="" style="display: block; max-width: 100%; height: auto;">

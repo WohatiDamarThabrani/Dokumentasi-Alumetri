@@ -4,20 +4,7 @@ outline: deep
 
 # Daftar Quotation
 
-Halaman Daftar Quotation menampilkan quotation estimator dalam bentuk tabel. Informasi yang tersedia meliputi:
-
-| Kolom | Keterangan |
-| --- | --- |
-| **No Quotation** | Nomor identifikasi quotation. |
-| **Brand** | Brand yang digunakan pada proyek. |
-| **Nama Proyek** | Nama proyek terkait quotation. |
-| **Cluster** | Cluster proyek. |
-| **Type** | Tipe rumah pada quotation. |
-| **Qty Rumah** | Jumlah rumah yang dihitung. |
-| **Nilai Project** | Nilai proyek pada quotation. |
-| **Status** | Status quotation saat ini. |
-| **Last Update** | Waktu terakhir quotation diperbarui. |
-| **Aksi** | Tindakan yang tersedia untuk quotation. |
+Role estimator dapat membuat surat penawaran kepada developer/customer.
 
 ## Cara Membuat Draft Quotation
 

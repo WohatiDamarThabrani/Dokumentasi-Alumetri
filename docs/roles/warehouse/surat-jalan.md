@@ -6,20 +6,6 @@ outline: deep
 
 Role Warehouse dapat membuat surat jalan untuk pengiriman barang jadi. Surat jalan mencatat proyek dan batch terkait, informasi tujuan pengiriman, serta barang yang dikirim.
 
-## Informasi Surat Jalan
-
-| Informasi | Keterangan |
-| --- | --- |
-| **ID Proyek** | ID proyek yang terkait dengan pengiriman. |
-| **Batch** | Batch proyek yang terkait dengan pengiriman. |
-| **Alamat pengiriman** | Alamat tujuan pengiriman barang. |
-| **Penerima** | Pihak yang menerima barang di tujuan. |
-| **Tanggal kirim** | Tanggal pengiriman barang. |
-
-## Barang yang Dikirim
-
-Pilih barang jadi yang akan dikirim, kemudian masukkan jumlah untuk setiap barang yang dipilih.
-
 ## Membuat Draf Surat Jalan
 
 1. Buka menu Daftar Surat Jalan.

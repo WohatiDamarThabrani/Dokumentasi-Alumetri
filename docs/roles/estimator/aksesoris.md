@@ -6,31 +6,80 @@ outline: deep
 
 Halaman **Aksesoris** pada modul **Master Data** digunakan Estimator untuk mengelola data aksesoris yang digunakan dalam sistem. Estimator dapat menambah, mengimpor, mengekspor, menghapus, memulihkan, dan menghapus data aksesoris secara permanen.
 
-## Menambahkan Aksesoris
+## Cara Menambahkan Aksesoris
 
-1. Buka halaman **Aksesoris** dari modul **Master Data**.
-2. Klik **Tambah Aksesoris** di bagian atas halaman.
-3. Isi **Kode**, **Deskripsi**, **Satuan**, dan **Brand**.
-4. Tentukan **Kategori Sealant** dengan memilih **Ya** atau **Tidak**.
-5. Simpan data aksesoris.
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Satuan dapat disesuaikan dengan kebutuhan, misalnya **pcs**, **meter**, atau **set**.
+2. Klik tombol <img src="/images/super-admin/aksesoris/aks2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/aksesoris/aks3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-## Mengimpor Aksesoris
+3. Masukkan kode, deskripsi, deskripsi lapangan, satuan, dan brand
 
-1. Siapkan file berformat **.csv** atau **.xlsx** dengan kolom **Kode**, **Deskripsi**, **Satuan**, **Brand**, dan **Kategori Sealant**. Isi kategori sealant dengan **Ya** atau **Tidak**.
-2. Klik **Impor** di bagian atas halaman.
-3. Unggah file, lalu jalankan proses impor.
-4. Periksa hasil impor pada tabel Aksesoris.
+4. Pilih apakah aksesoris tersebut termasuk ke dalam kategori sealant 
 
-## Menghapus, Memulihkan, atau Menghapus Permanen Aksesoris
+5. Klik tombol <img src="/images/super-admin/aksesoris/aks4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan. 
 
-Alur penghapusan aksesoris sama seperti pada [halaman Brand](/roles/estimator/brand):
+Aksesoris berhasil ditambahkan
 
-1. Pada kolom **Aksi** di tabel Aksesoris, klik ikon tempat sampah pada baris aksesoris yang akan dihapus dan konfirmasikan jika diminta. Aksesoris yang dihapus akan masuk ke kotak sampah.
-2. Klik **Kotak Sampah** di bagian atas halaman.
-3. Pilih aksesoris yang akan dikelola, lalu pilih **Pulihkan** untuk mengembalikannya atau **Hapus Permanen** untuk menghapusnya secara permanen. Konfirmasikan tindakan jika diminta.
+## Cara Menghapus Aksesoris
 
-## Mengekspor Aksesoris
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Klik **Export** di bagian atas halaman untuk mengunduh daftar aksesoris dalam format Excel.
+2. Klik logo <img src="/images/super-admin/aksesoris/aks5.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> pada kolom aksi. Setelah itu akan muncul pop-up seperti berikut
+    <img src="/images/super-admin/aksesoris/aks6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/aksesoris/aks7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Aksesoris berhasil dimasukkan ke dalam kotak sampah
+
+## Cara memulihkan Aksesoris yang ada di dalam kotak sampah 
+
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/aksesoris/aks8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> Setelah itu akan muncul form seperti berikut
+    <img src="/images/super-admin/aksesoris/aks9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/aksesoris/aks10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Aksesoris dari kotak sampah
+
+
+## Cara menghapus Aksesoris secara permanen
+
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/aksesoris/aks8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul form berikut
+    <img src="/images/super-admin/aksesoris/aks9.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik tombol <img src="/images/super-admin/aksesoris/aks11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+4. Konfirmasi dengan klik tombol <img src="/images/super-admin/aksesoris/aks12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
+
+Aksesoris sudah berhasil dihapus permanen 
+
+
+## Cara Mengimpor Aksesoris
+
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/aksesoris/aks13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">, lalu akan muncul pop up berikut
+    <img src="/images/super-admin/aksesoris/aks14.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Upload file dalam bentuk .xlsx atau .csv
+
+4. Selanjutnya akan masuk ke proses pratinjau seperti pada gambar berikut
+    <img src="/images/super-admin/aksesoris/aks15.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+5. Lanjut dengan klik tombol <img src="/images/super-admin/aksesoris/aks16.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
+
+Aksesoris telah berhasil diimpor
+
+## Cara Mengekspor Aksesoris
+
+1. Buka menu Aksesoris.
+   <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik tombol <img src="/images/super-admin/aksesoris/aks17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor Aksesoris

@@ -83,3 +83,7 @@ Aksesoris telah berhasil diimpor
    <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
 2. Klik tombol <img src="/images/super-admin/aksesoris/aks17.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengekspor Aksesoris
+
+## Mengisi Harga Tanpa PPN
+
+Kolom **Harga Tanpa PPN** pada tabel Aksesoris diisi melalui halaman **Price & Cost**, bukan dari halaman Aksesoris.

@@ -74,7 +74,7 @@ gudang sudah berhasil dihapus permanen
 
 gudang telah berhasil diimpor
 
-## Cara Mengekspor customer
+## Cara Mengekspor gudang
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">

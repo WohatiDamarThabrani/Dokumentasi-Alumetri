@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Gudang** pada modul **Master Data** menampilkan data gudang fisik tempat stok disimpan.
 
-## Cara Mengekspor customer
+## Cara Mengekspor Gudang
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">

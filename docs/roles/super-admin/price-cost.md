@@ -6,25 +6,35 @@ outline: deep
 
 Halaman **Price & Cost** digunakan untuk membuat dan mengelola pricelist harga barang. Pricelist dibuat untuk brand dan memiliki nama versi serta tanggal berlaku.
 
-## Membuat Pricelist
+## Cara Membuat Pricelist
 
-1. Buka halaman **Price & Cost**.
-2. Klik **Buat Pricelist Baru**.
-3. Pilih **Brand**, lalu isi **Nama Versi** dan **Tanggal Berlaku**.
-4. Centang keterangan bahwa harga yang akan diisi sudah termasuk PPN jika harga memang sudah disesuaikan dengan PPN. Biarkan tidak dicentang jika harga belum termasuk PPN.
-5. Buat pricelist.
+1. Buka menu Price & Cost.
+   <img src="/images/super-admin/price-cost/pc1.png" alt="" style="display: block; max-width: 100%; height: auto;">
 
-Pricelist yang baru dibuat belum berisi harga. Harga barang perlu diisi setelah membuka pricelist tersebut.
+2. Klik tombol <img src="/images/super-admin/price-cost/pc2.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> lalu akan muncul form berikut
+    <img src="/images/super-admin/price-cost/pc3.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
 
-## Mengisi Harga Barang
+3. Pilih Brand, lalu isi Nama Versi dan Tanggal Berlaku
 
-1. Klik pricelist yang baru dibuat.
-2. Buka navbar **Belum Berharga** untuk menampilkan semua barang yang belum memiliki harga pada pricelist tersebut.
-3. Masukkan harga untuk barang yang tercantum. Barang dapat berupa profil aluminium, aksesoris, kaca, atau jasa pemasangan.
-4. Klik **Simpan Harga Baru**.
+4. Centang keterangan bahwa harga yang akan diisi sudah termasuk PPN jika harga memang sudah disesuaikan dengan PPN. Biarkan tidak dicentang jika harga belum termasuk PPN
 
-Periksa harga yang dimasukkan sebelum menyimpannya.
+4. Klik tombol <img src="/images/super-admin/price-cost/pc4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
 
-## Mengaktifkan Pricelist
+Pricelist berhasil dibuat
 
-Setelah harga disimpan, klik **Aktifkan Versi Ini** untuk mengaktifkan versi pricelist. Pricelist baru berstatus aktif setelah langkah ini dilakukan.
+## Cara Mengisi Harga Barang
+
+1. Buka menu Price & Cost.
+   <img src="/images/super-admin/price-cost/pc1.png" alt="" style="display: block; max-width: 100%; height: auto;">
+
+2. Klik pricelist yang baru dibuat, lalu akan tampil halaman seperti berikut
+    <img src="/images/super-admin/price-cost/pc5.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+3. Klik navbar **Belum Berharga** untuk menampilkan semua barang yang belum memiliki harga pada pricelist tersebut. Tampilannya seperti berikut ini
+    <img src="/images/super-admin/price-cost/pc6.png" alt="Formulir pembuatan surat jalan" style="display: block; max-width: 100%; height: auto;">
+
+4. Masukkan harga untuk setiap barang
+
+5. Lalu klik tombol <img src="/images/super-admin/price-cost/pc7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan harganya
+
+6. Gulir halaman ke atas dan klik tombol <img src="/images/super-admin/price-cost/pc8.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengaktifkan pricelist

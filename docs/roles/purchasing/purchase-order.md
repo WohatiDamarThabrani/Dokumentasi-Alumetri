@@ -4,7 +4,7 @@ outline: deep
 
 # Purchase Order
 
-Purchase Order (PO) digunakan untuk mencatat pemesanan material kepada pemasok untuk sebuah proyek. PO yang selesai diisi perlu diajukan tinjauannya agar tersimpan sebagai draf dan dikirim ke role Super Admin untuk disetujui.
+Purchase Order (PO) digunakan untuk mencatat pemesanan material kepada pemasok untuk sebuah proyek. 
 
 ## Cara Membuat Purchase Order
 

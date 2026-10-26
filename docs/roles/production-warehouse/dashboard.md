@@ -75,4 +75,3 @@ Selain aktivitas gudang, Dashboard menampilkan:
 - Tahapan serta progress produksi dan pengiriman setiap proyek aktif.
 - Sepuluh gerakan stok terbaru, termasuk barang, jumlah, waktu, dan pencatat.
 
-Untuk pengiriman barang jadi, lihat panduan [Surat Jalan](/roles/warehouse/surat-jalan).

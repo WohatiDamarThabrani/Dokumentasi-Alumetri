@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Profil Aluminium** pada modul **Master Data** menampilkan spesifikasi profil aluminium yang digunakan dalam sistem.
 
-## Cara Mengekspor profil aluminium
+## Cara Mengekspor Profil Aluminium
 
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">

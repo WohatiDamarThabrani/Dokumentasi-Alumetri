@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Customer** pada modul **Master Data** menampilkan data customer, yaitu developer perumahan yang menjadi lawan penawaran.
 
-## Cara Mengekspor customer
+## Cara Mengekspor Customer
 
 1. Buka menu customer.
     <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">

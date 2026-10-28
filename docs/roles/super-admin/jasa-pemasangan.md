@@ -32,7 +32,7 @@ Jasa Pemasangan berhasil ditambahkan
 
 Jasa Pemasangan berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan Jasa Pemasangan yang ada di dalam kotak sampah 
+## Cara Memulihkan Jasa Pemasangan yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Jasa Pemasangan.
    <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -43,7 +43,7 @@ Jasa Pemasangan berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/jasa-pemasangan/jp10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Jasa Pemasangan dari kotak sampah
 
 
-## Cara menghapus Jasa Pemasangan secara permanen
+## Cara Menghapus Jasa Pemasangan Secara Permanen
 
 1. Buka menu Jasa Pemasangan.
    <img src="/images/super-admin/jasa-pemasangan/jp1.png" alt="" style="display: block; max-width: 100%; height: auto;">

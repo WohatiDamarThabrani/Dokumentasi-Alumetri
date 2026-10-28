@@ -81,7 +81,7 @@ Persetujuan versi tidak otomatis mengaktifkan formula set. Untuk mengaktifkannya
 
 Tipologi berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan Tipologi yang ada di dalam kotak sampah 
+## Cara Memulihkan Tipologi yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Unit type & BOM.
    <img src="/images/super-admin/unit/u1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -91,7 +91,7 @@ Tipologi berhasil dimasukkan ke dalam kotak sampah
 
 3. Klik tombol <img src="/images/super-admin/unit/u21.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Tipologi dari kotak sampah
 
-## Cara menghapus Tipologi secara permanen
+## Cara Menghapus Tipologi Secara Permanen
 
 1. Buka menu Unit type & BOM.
    <img src="/images/super-admin/unit/u1.png" alt="" style="display: block; max-width: 100%; height: auto;">

@@ -34,7 +34,7 @@ Aksesoris berhasil ditambahkan
 
 Aksesoris berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan Aksesoris yang ada di dalam kotak sampah 
+## Cara Memulihkan Aksesoris yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Aksesoris.
    <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -45,7 +45,7 @@ Aksesoris berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/aksesoris/aks10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Aksesoris dari kotak sampah
 
 
-## Cara menghapus Aksesoris secara permanen
+## Cara Menghapus Aksesoris Secara Permanen
 
 1. Buka menu Aksesoris.
    <img src="/images/super-admin/aksesoris/aks1.png" alt="" style="display: block; max-width: 100%; height: auto;">

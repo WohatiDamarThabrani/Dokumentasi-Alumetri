@@ -82,7 +82,7 @@ Parameter Teknis sudah berhasil dihapus permanen
 
 Parameter Teknis telah berhasil diimpor
 
-## Cara Mengekspor profil aluminium
+## Cara Mengekspor Parameter Teknis
 
 1. Buka menu Parameter Teknis.
    <img src="/images/super-admin/parameter/p1.png" alt="" style="display: block; max-width: 100%; height: auto;">

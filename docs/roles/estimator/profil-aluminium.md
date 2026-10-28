@@ -39,7 +39,7 @@ Profil Aluminium berhasil ditambahkan
 
 Profil Aluminium berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan profil aluminium yang ada di dalam kotak sampah 
+## Cara Memulihkan Profil Aluminium yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -50,7 +50,7 @@ Profil Aluminium berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/profil-aluminium/pa13.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan profil aluminium dari kotak sampah
 
 
-## Cara menghapus profil aluminium secara permanen
+## Cara Menghapus Profil Aluminium Secara Permanen
 
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -62,10 +62,10 @@ Profil Aluminium berhasil dimasukkan ke dalam kotak sampah
 
 4. Konfirmasi dengan klik tombol <img src="/images/super-admin/profil-aluminium/pa15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
 
-profil aluminium sudah berhasil dihapus permanen 
+Profil Aluminium sudah berhasil dihapus permanen 
 
 
-## Cara Mengimpor profil aluminium
+## Cara Mengimpor Profil Aluminium
 
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -80,9 +80,9 @@ profil aluminium sudah berhasil dihapus permanen
 
 5. Lanjut dengan klik tombol <img src="/images/super-admin/profil-aluminium/pa19.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-profil aluminium telah berhasil diimpor
+Profil Aluminium telah berhasil diimpor
 
-## Cara Mengekspor profil aluminium
+## Cara Mengekspor Profil Aluminium
 
 1. Buka menu Profil Aluminium.
    <img src="/images/super-admin/profil-aluminium/pa1.png" alt="" style="display: block; max-width: 100%; height: auto;">

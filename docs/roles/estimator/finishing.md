@@ -19,7 +19,7 @@ Halaman **Finishing** pada modul **Master Data** digunakan Estimator untuk menge
 4. Klik tombol <img src="/images/super-admin/finishing/finishing4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
 
-## Cara Menghapus finishing
+## Cara Menghapus Finishing
 
 1. Buka menu finishing.
    <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -32,7 +32,7 @@ Halaman **Finishing** pada modul **Master Data** digunakan Estimator untuk menge
 Finishing berhasil dimasukkan ke dalam kotak sampah
 
 
-## Cara memulihkan finishing yang ada di dalam kotak sampah 
+## Cara Memulihkan Finishing yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu finishing.
    <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -42,7 +42,7 @@ Finishing berhasil dimasukkan ke dalam kotak sampah
 
 3. Klik tombol <img src="/images/super-admin/finishing/finishing10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan finishing dari kotak sampah
 
-## Cara menghapus finishing secara permanen
+## Cara Menghapus Finishing Secara Permanen
 
 1. Buka menu finishing.
    <img src="/images/super-admin/finishing/finishing1.png" alt="" style="display: block; max-width: 100%; height: auto;">

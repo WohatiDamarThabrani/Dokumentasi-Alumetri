@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Customer** pada modul **Master Data** digunakan Purchasing untuk mengelola data customer, yaitu developer perumahan yang menjadi lawan penawaran.
 
-## Cara Menambahkan customer
+## Cara Menambahkan Customer
 
 1. Buka menu customer.
    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -19,7 +19,7 @@ Halaman **Customer** pada modul **Master Data** digunakan Purchasing untuk menge
 4. Klik tombol <img src="/images/super-admin/customer/cus4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
 
-## Cara Menghapus customer
+## Cara Menghapus Customer
 
 1. Buka menu customer.
    <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -29,9 +29,9 @@ Halaman **Customer** pada modul **Master Data** digunakan Purchasing untuk menge
 
 3. Klik tombol <img src="/images/super-admin/customer/cus7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-customer berhasil dimasukkan ke dalam kotak sampah
+Customer berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan customer yang ada di dalam kotak sampah 
+## Cara Memulihkan Customer yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu customer.
     <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -42,7 +42,7 @@ customer berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/customer/cus10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan customer dari kotak sampah
 
 
-## Cara menghapus customer secara permanen
+## Cara Menghapus Customer Secara Permanen
 
 1. Buka menu customer.
     <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -54,10 +54,10 @@ customer berhasil dimasukkan ke dalam kotak sampah
 
 4. Konfirmasi dengan klik tombol <img src="/images/super-admin/customer/cus12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
 
-customer sudah berhasil dihapus permanen 
+Customer sudah berhasil dihapus permanen 
 
 
-## Cara Mengimpor customer
+## Cara Mengimpor Customer
 
 1. Buka menu customer.
     <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -72,9 +72,9 @@ customer sudah berhasil dihapus permanen
 
 5. Lanjut dengan klik tombol <img src="/images/super-admin/customer/cus15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-customer telah berhasil diimpor
+Customer telah berhasil diimpor
 
-## Cara Mengekspor customer
+## Cara Mengekspor Customer
 
 1. Buka menu customer.
     <img src="/images/super-admin/customer/cus1.png" alt="" style="display: block; max-width: 100%; height: auto;">

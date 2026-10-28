@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Supplier** pada modul **Master Data** digunakan Estimator untuk mengelola pemasok aluminium, aksesoris, dan kaca yang dipakai saat menyusun Purchase Order (PO). Estimator dapat menambah, mengimpor, mengekspor, menghapus, memulihkan, dan menghapus data supplier secara permanen.
 
-## Cara Menambahkan Seri Profil
+## Cara Menambahkan Supplier
 
 1. Buka menu Supplier.
    <img src="/images/super-admin/supplier/sup1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -31,7 +31,7 @@ Halaman **Supplier** pada modul **Master Data** digunakan Estimator untuk mengel
 
 Supplier berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan supplier yang ada di dalam kotak sampah 
+## Cara Memulihkan Supplier yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Supplier.
    <img src="/images/super-admin/supplier/sup1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -42,7 +42,7 @@ Supplier berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/supplier/sup10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan supplier dari kotak sampah
 
 
-## Cara menghapus supplier secara permanen
+## Cara Menghapus Supplier Secara Permanen
 
 1. Buka menu Supplier.
    <img src="/images/super-admin/supplier/sup1.png" alt="" style="display: block; max-width: 100%; height: auto;">

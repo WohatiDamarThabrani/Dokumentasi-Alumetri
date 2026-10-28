@@ -32,7 +32,7 @@ Glass berhasil ditambahkan
 
 Glass berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan Glass yang ada di dalam kotak sampah 
+## Cara Memulihkan Glass yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Glass.
    <img src="/images/super-admin/glass/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -43,7 +43,7 @@ Glass berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/glass/g10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Glass dari kotak sampah
 
 
-## Cara menghapus Glass secara permanen
+## Cara Menghapus Glass Secara Permanen
 
 1. Buka menu Glass.
    <img src="/images/super-admin/glass/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">

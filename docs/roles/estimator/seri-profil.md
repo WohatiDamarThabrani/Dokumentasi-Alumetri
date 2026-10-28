@@ -31,7 +31,7 @@ Halaman **Seri Profil** pada modul **Master Data** digunakan Estimator untuk men
 
 Seri Profil berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan seri profil yang ada di dalam kotak sampah 
+## Cara Memulihkan Seri Profil yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu seri profil.
    <img src="/images/super-admin/seri-profil/sf1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -42,7 +42,7 @@ Seri Profil berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/seri-profil/sf10.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan seri profil dari kotak sampah
 
 
-## Cara menghapus seri profil secara permanen
+## Cara Menghapus Seri Profil Secara Permanen
 
 1. Buka menu seri profil.
    <img src="/images/super-admin/seri-profil/sf1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -54,7 +54,7 @@ Seri Profil berhasil dimasukkan ke dalam kotak sampah
 
 4. Konfirmasi dengan klik tombol <img src="/images/super-admin/seri-profil/sf12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
 
-Seri profil sudah berhasil dihapus permanen 
+Seri Profil sudah berhasil dihapus permanen 
 
 
 ## Cara Mengimpor Seri Profil
@@ -72,7 +72,7 @@ Seri profil sudah berhasil dihapus permanen
 
 5. Lanjut dengan klik tombol <img src="/images/super-admin/seri-profil/sf15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-Seri profil telah berhasil diimpor
+Seri Profil telah berhasil diimpor
 
 ## Cara Mengekspor Seri Profil
 

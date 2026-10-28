@@ -39,7 +39,7 @@ Halaman **Parameter Teknis** pada modul **Master Data** digunakan Purchasing unt
 
 Parameter Teknis berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan Parameter Teknis yang ada di dalam kotak sampah 
+## Cara Memulihkan Parameter Teknis yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu Parameter Teknis.
    <img src="/images/super-admin/parameter/p1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -50,7 +50,7 @@ Parameter Teknis berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/parameter/p9.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan Parameter Teknis dari kotak sampah
 
 
-## Cara menghapus Parameter Teknis secara permanen
+## Cara Menghapus Parameter Teknis Secara Permanen
 
 1. Buka menu Parameter Teknis.
    <img src="/images/super-admin/parameter/p1.png" alt="" style="display: block; max-width: 100%; height: auto;">

@@ -6,7 +6,7 @@ outline: deep
 
 Halaman **Gudang** pada modul **Master Data** digunakan Purchasing untuk mengelola gudang fisik tempat stok disimpan.
 
-## Cara Menambahkan gudang
+## Cara Menambahkan Gudang
 
 1. Buka menu gudang.
    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -19,7 +19,7 @@ Halaman **Gudang** pada modul **Master Data** digunakan Purchasing untuk mengelo
 4. Klik tombol <img src="/images/super-admin/gudang/g4.png" alt="" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyimpan
 
 
-## Cara Menghapus gudang
+## Cara Menghapus Gudang
 
 1. Buka menu gudang.
    <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -29,9 +29,9 @@ Halaman **Gudang** pada modul **Master Data** digunakan Purchasing untuk mengelo
 
 3. Klik tombol <img src="/images/super-admin/gudang/g7.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-gudang berhasil dimasukkan ke dalam kotak sampah
+Gudang berhasil dimasukkan ke dalam kotak sampah
 
-## Cara memulihkan gudang yang ada di dalam kotak sampah 
+## Cara Memulihkan Gudang yang Ada di Dalam Kotak Sampah 
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -42,7 +42,7 @@ gudang berhasil dimasukkan ke dalam kotak sampah
 3. Klik tombol <img src="/images/super-admin/gudang/g9.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk mengeluarkan gudang dari kotak sampah
 
 
-## Cara menghapus gudang secara permanen
+## Cara Menghapus Gudang Secara Permanen
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -54,10 +54,10 @@ gudang berhasil dimasukkan ke dalam kotak sampah
 
 4. Konfirmasi dengan klik tombol <img src="/images/super-admin/gudang/g11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> 
 
-gudang sudah berhasil dihapus permanen 
+Gudang sudah berhasil dihapus permanen 
 
 
-## Cara Mengimpor gudang
+## Cara Mengimpor Gudang
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -72,9 +72,9 @@ gudang sudah berhasil dihapus permanen
 
 5. Lanjut dengan klik tombol <img src="/images/super-admin/gudang/g15.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-gudang telah berhasil diimpor
+Gudang telah berhasil diimpor
 
-## Cara Mengekspor customer
+## Cara Mengekspor Gudang
 
 1. Buka menu gudang.
     <img src="/images/super-admin/gudang/g1.png" alt="" style="display: block; max-width: 100%; height: auto;">

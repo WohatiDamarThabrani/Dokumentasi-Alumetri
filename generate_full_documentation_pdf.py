@@ -673,6 +673,13 @@ def build_toc_story(roles):
         spaceAfter=14,
     )
     toc = TableOfContents()
+    toc.tableStyle = TableStyle([
+        ('VALIGN', (0, 0), (-1, -1), 'TOP'),
+        ('LEFTPADDING', (0, 0), (-1, -1), 0),
+        ('RIGHTPADDING', (0, 0), (-1, -1), 0),
+        ('TOPPADDING', (0, 0), (-1, -1), 0),
+        ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
+    ])
     toc.levelStyles = [
         ParagraphStyle(
             name='TOCRole',
@@ -684,29 +691,31 @@ def build_toc_story(roles):
             firstLineIndent=0,
             textColor=HexColor('#1F2937'),
             spaceBefore=5,
-            spaceAfter=3,
+            spaceAfter=0,
         ),
         ParagraphStyle(
             name='TOCModule',
             parent=styles['BodyText'],
             fontName='Inter-Bold',
             fontSize=9,
-            leading=14.4,
+            leading=16,
             leftIndent=12,
             firstLineIndent=0,
             textColor=HexColor('#334155'),
-            spaceAfter=2,
+            spaceBefore=0,
+            spaceAfter=0,
         ),
         ParagraphStyle(
             name='TOCPage',
             parent=styles['BodyText'],
             fontName='Inter',
             fontSize=8,
-            leading=12.8,
+            leading=16,
             leftIndent=26,
             firstLineIndent=0,
             textColor=HexColor('#475569'),
-            spaceAfter=1,
+            spaceBefore=0,
+            spaceAfter=0,
         ),
     ]
     toc.dotsMinLevel = 0

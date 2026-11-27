@@ -728,13 +728,25 @@ class DocumentationDocTemplate(SimpleDocTemplate):
 
     def handle_pageBegin(self):
         super().handle_pageBegin()
+        page_number = self.canv.getPageNumber()
+        if page_number == 1:
+            return
+
         self.canv.saveState()
+        self.canv.setStrokeColor(HexColor('#CBD5E1'))
+        self.canv.setLineWidth(0.5)
+        self.canv.line(
+            PAGE_MARGIN,
+            14 * mm,
+            A4[0] - PAGE_MARGIN,
+            14 * mm,
+        )
         self.canv.setFont('Inter', 9)
         self.canv.setFillColor(HexColor('#64748B'))
-        self.canv.drawCentredString(
-            A4[0] / 2,
-            8 * mm,
-            str(self.canv.getPageNumber()),
+        self.canv.drawRightString(
+            A4[0] - PAGE_MARGIN,
+            9 * mm,
+            str(page_number - 1),
         )
         self.canv.restoreState()
 
@@ -770,7 +782,7 @@ class DocumentationDocTemplate(SimpleDocTemplate):
         key = f'toc-{self.role_number}-{self.module_number}-{self.page_number}-{level}'
         self.canv.bookmarkPage(key)
         self.canv.addOutlineEntry(entry_text, key, level=level, closed=False)
-        self.notify('TOCEntry', (level, entry_text, self.page, key))
+        self.notify('TOCEntry', (level, entry_text, self.page - 1, key))
 
 
 def generate_pdf():

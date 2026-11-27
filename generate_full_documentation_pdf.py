@@ -779,10 +779,11 @@ class DocumentationDocTemplate(SimpleDocTemplate):
 
         title = flowable.getPlainText()
         entry_text = f'{prefix} {title}'
+        toc_entry_text = f'{prefix}. {title}' if level == 0 else entry_text
         key = f'toc-{self.role_number}-{self.module_number}-{self.page_number}-{level}'
         self.canv.bookmarkPage(key)
         self.canv.addOutlineEntry(entry_text, key, level=level, closed=False)
-        self.notify('TOCEntry', (level, entry_text, self.page - 1, key))
+        self.notify('TOCEntry', (level, toc_entry_text, self.page - 1, key))
 
 
 def generate_pdf():

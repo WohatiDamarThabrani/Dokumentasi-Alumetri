@@ -26,7 +26,7 @@ Halaman **Unit Type & BOM** pada modul **Master Data** digunakan Estimator untuk
 
 5. Klik tombol <img src="/images/super-admin/unit/u4.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-## Membuat Formula Set BOM
+## Cara Membuat Formula Set BOM
 
 1. Buka menu Unit type & BOM.
    <img src="/images/super-admin/unit/u1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -51,16 +51,16 @@ Halaman **Unit Type & BOM** pada modul **Master Data** digunakan Estimator untuk
 
 6. Klik tombol <img src="/images/super-admin/unit/u9.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-6. Ulangi hingga seluruh komponen yang diperlukan untuk tipologi tersebut tercantum.
+7. Ulangi hingga seluruh komponen yang diperlukan untuk tipologi tersebut tercantum.
 
-7. Susun Rumus untuk setiap komponen BOM yang telah dibuat dengan cara pilih baris BOM terlebih dahulu. Lalu pada form Penyusun Rumus, klik tombol <img src="/images/super-admin/unit/u11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.3em; vertical-align: middle; margin: 0;"> untuk memasukkan rumus lebar potong, tinggi potong, dan jumlah
+8. Susun Rumus untuk setiap komponen BOM yang telah dibuat dengan cara pilih baris BOM terlebih dahulu. Lalu pada form Penyusun Rumus, klik tombol <img src="/images/super-admin/unit/u11.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.3em; vertical-align: middle; margin: 0;"> untuk memasukkan rumus lebar potong, tinggi potong, dan jumlah
 
-8. Setelah semua rumus disusun, klik tombol <img src="/images/super-admin/unit/u12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.3em; vertical-align: middle; margin: 0;"> yang ada di bagian atas form 
+9. Setelah semua rumus disusun, klik tombol <img src="/images/super-admin/unit/u12.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.3em; vertical-align: middle; margin: 0;"> yang ada di bagian atas form 
 
-9. Klik tombol <img src="/images/super-admin/unit/u14.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui versi formula set
+10. Klik tombol <img src="/images/super-admin/unit/u14.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui versi formula set
 
 
-## Mengaktifkan Formula Set
+## Cara Mengaktifkan Formula Set
 
 Persetujuan versi tidak otomatis mengaktifkan formula set. Untuk mengaktifkannya:
 

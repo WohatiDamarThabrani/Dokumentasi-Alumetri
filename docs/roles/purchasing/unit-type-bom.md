@@ -26,7 +26,7 @@ Halaman **Unit Type & BOM** pada modul **Master Data** digunakan Purchasing untu
 
 5. Klik tombol <img src="/images/super-admin/unit/u4.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;">
 
-## Membuat Formula Set BOM
+## Cara Membuat Formula Set BOM
 
 1. Buka menu Unit type & BOM.
    <img src="/images/super-admin/unit/u1.png" alt="" style="display: block; max-width: 100%; height: auto;">
@@ -60,7 +60,7 @@ Halaman **Unit Type & BOM** pada modul **Master Data** digunakan Purchasing untu
 9. Klik tombol <img src="/images/super-admin/unit/u14.png" alt="Buat Surat Jalan" style="display: inline; width: auto; height: 1.5em; vertical-align: middle; margin: 0;"> untuk menyetujui versi formula set
 
 
-## Mengaktifkan Formula Set
+## Cara Mengaktifkan Formula Set
 
 Persetujuan versi tidak otomatis mengaktifkan formula set. Untuk mengaktifkannya:
 
